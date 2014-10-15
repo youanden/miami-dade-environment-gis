@@ -1,0 +1,5567 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0858308346983, 
+          25.705754508907702
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957177.8, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "OPHELIA BRIAN (SEA TAXI)", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "205' STEEL FREIGHER", 
+        "REEF_PROFI": "40", 
+        "REEF_ID": 186, 
+        "REEF_DEPTH": 110, 
+        "DATE_DEPLO": "20091230", 
+        "LATITUDE": "25 42.348", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.148", 
+        "NORTHING_1": 499789.2, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21012919143806, 
+          25.738154260466594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 916177.5, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "MERCY AR 2010 - PRE-CAST MATERIAL", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "VARIOUS PRE-CAST CONCRETE STORM DRAINS AND CULVERTS", 
+        "REEF_PROFI": "7", 
+        "REEF_ID": 187, 
+        "REEF_DEPTH": 13, 
+        "DATE_DEPLO": "20100603", 
+        "LATITUDE": "25 44.292", 
+        "REEF_SITE": "Mercy Hospital Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 12.606", 
+        "NORTHING_1": 511301.3, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20887931349372, 
+          25.738820996503954
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 916587.5, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "MERCY AR 2010 - LIMEROCK BOULDERS", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "~1620 TONS OF LIMEROCK BOULDERS", 
+        "REEF_PROFI": "7", 
+        "REEF_ID": 188, 
+        "REEF_DEPTH": 13, 
+        "DATE_DEPLO": "20100622", 
+        "LATITUDE": "25 44.328", 
+        "REEF_SITE": "Mercy Hospital Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 12.534", 
+        "NORTHING_1": 511546.1, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1335469321453, 
+          25.906219041493735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 940985.7, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "EAGLE SCOUT PROJECT #2", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "7 REEFBALLS", 
+        "REEF_PROFI": "2", 
+        "REEF_ID": 189, 
+        "REEF_DEPTH": 14, 
+        "DATE_DEPLO": "00100625", 
+        "LATITUDE": "25 54.372", 
+        "REEF_SITE": "Oleta River State Park Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 8.010", 
+        "NORTHING_1": 572546.5, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16912963209735, 
+          25.814836593998482
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 929498.6, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "SCHOOL STEPS 2010", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "~85 CONCRETE STEPS AND RAMPS", 
+        "REEF_PROFI": "8", 
+        "REEF_ID": 190, 
+        "REEF_DEPTH": 24, 
+        "DATE_DEPLO": "20100806", 
+        "LATITUDE": "25 48.888", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 10.146", 
+        "NORTHING_1": 539255.8, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07543089783778, 
+          25.915702163850376
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 960066.2, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "M/V CATHARINA", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "MOTORED SAILING VESSEL BUILT IN 1896", 
+        "REEF_PROFI": "14", 
+        "REEF_ID": 191, 
+        "REEF_DEPTH": 266, 
+        "DATE_DEPLO": "20100908", 
+        "LATITUDE": "25 54.942", 
+        "REEF_SITE": "HAULOVER", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.524", 
+        "NORTHING_1": 576123.9, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07648084352266, 
+          25.907918894199938
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959741.0, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "M/V SHARK", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "TUG CONVERTED TO CARGO", 
+        "REEF_PROFI": "21", 
+        "REEF_ID": 192, 
+        "REEF_DEPTH": 236, 
+        "DATE_DEPLO": "20100908", 
+        "LATITUDE": "25 54.474", 
+        "REEF_SITE": "HAULOVER", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.584", 
+        "NORTHING_1": 573292.4, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13351346969664, 
+          25.906219116201257
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 940996.7, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "BRING BACK THE REEFS #1", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "3' TO 5' LIMEROCK BOULDERS", 
+        "REEF_PROFI": "4", 
+        "REEF_ID": 193, 
+        "REEF_DEPTH": 13, 
+        "DATE_DEPLO": "20110124", 
+        "LATITUDE": "25 54.372", 
+        "REEF_SITE": "Oleta River State Park Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 8.010", 
+        "NORTHING_1": 572546.6, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16916324716036, 
+          25.814636769986503
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 929488.0, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "RICKENBACKER FISHING PIER DEMO PHASES 2 & 3", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "BRIDGE CONCRETE AND LIMEROCK BOULDERS", 
+        "REEF_PROFI": "13", 
+        "REEF_ID": 194, 
+        "REEF_DEPTH": 25, 
+        "DATE_DEPLO": "20110603", 
+        "LATITUDE": "25 48.882", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 10.146", 
+        "NORTHING_1": 539183.1, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19609619066277, 
+          25.749120640265982
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 920772.8, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "RICKENBACKER BRIDGE DEMO PHASE 1", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "CONCRETE BRIDGE MATERIAL", 
+        "REEF_PROFI": "8", 
+        "REEF_ID": 195, 
+        "REEF_DEPTH": 14, 
+        "DATE_DEPLO": "20110218", 
+        "LATITUDE": "25 44.946", 
+        "REEF_SITE": "Brickell Area Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 11.766", 
+        "NORTHING_1": 515315.1, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21019609124369, 
+          25.738970935308142
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 916153.7, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "MERCY CONNECTIVITY PILE A", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "3' TO 5' LIMEROCK BOULDERS AND CONCRETE", 
+        "REEF_PROFI": "6", 
+        "REEF_ID": 196, 
+        "REEF_DEPTH": 12, 
+        "DATE_DEPLO": "20110713", 
+        "LATITUDE": "25 44.340", 
+        "REEF_SITE": "Mercy Hospital Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 12.612", 
+        "NORTHING_1": 511598.0, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21001260935361, 
+          25.7387875284922
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 916214.5, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "MERCY CONNECTIVITY PILE B", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "3' TO 5' LIMEROCK BOULDERS AND CONCRETE", 
+        "REEF_PROFI": "6", 
+        "REEF_ID": 197, 
+        "REEF_DEPTH": 12, 
+        "DATE_DEPLO": "20110713", 
+        "LATITUDE": "25 44.328", 
+        "REEF_SITE": "Mercy Hospital Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 12.600", 
+        "NORTHING_1": 511531.7, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09814715727185, 
+          25.963101732781908
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952480.5, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "ETERNAL REEFS #11", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "5 MEMORIAL REEFBALLS", 
+        "REEF_PROFI": "4", 
+        "REEF_ID": 198, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "00110221", 
+        "LATITUDE": "25 57.786", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.886", 
+        "NORTHING_1": 593300.7, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09776389474312, 
+          25.96283495760805
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952607.1, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "ETERNAL REEFS #12", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "6 MEMORIAL REEFBALLS", 
+        "REEF_PROFI": "4", 
+        "REEF_ID": 199, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "20110711", 
+        "LATITUDE": "25 57.768", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.862", 
+        "NORTHING_1": 593204.6, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08794720625623, 
+          25.69678791875817
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956503.4, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "KEY BISCAYNE CONNECTIVITY PILE A", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "3' TO 5' LIMEROCK BOULDERS AND CONCRETE", 
+        "REEF_PROFI": "9", 
+        "REEF_ID": 200, 
+        "REEF_DEPTH": 60, 
+        "DATE_DEPLO": "20110720", 
+        "LATITUDE": "25 41.808", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.274", 
+        "NORTHING_1": 496525.3, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08761388588579, 
+          25.69685461582434
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956613.0, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "KEY BISCAYNE CONNECTIVITY PILE B", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "3' TO 5' LIMEROCK BOULDERS AND CONCRETE", 
+        "REEF_PROFI": "5", 
+        "REEF_ID": 201, 
+        "REEF_DEPTH": 64, 
+        "DATE_DEPLO": "20110718", 
+        "LATITUDE": "25 41.814", 
+        "REEF_SITE": "KEY BISCYANE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.256", 
+        "NORTHING_1": 496550.3, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16571759074984, 
+          25.81401698468459
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 930623.0, 
+        "REEF_TYPE": "Concrete", 
+        "REEF_NAME": "Bunnell Seawall", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "Concrete Seawall Pieces", 
+        "REEF_PROFI": "6", 
+        "REEF_ID": 202, 
+        "REEF_DEPTH": 19, 
+        "DATE_DEPLO": "20080916", 
+        "LATITUDE": "25 48.891", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 09.943", 
+        "NORTHING_1": 538965.0, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09897671485692, 
+          25.96287222359274
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952208.5, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "ETERNAL REEFS #13", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "5 MEMORIAL REEFBALLS", 
+        "REEF_PROFI": "3", 
+        "REEF_ID": 203, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "20120220", 
+        "LATITUDE": "25 57.772", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 05.884", 
+        "NORTHING_1": 593215.4, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09806672329346, 
+          25.963033332964343
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952507.1, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "ETERNAL REEFS #14", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "6 MEMORIAL REEFBALLS", 
+        "REEF_PROFI": "3", 
+        "REEF_ID": 204, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "20120813", 
+        "LATITUDE": "25 57.782", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 05.884", 
+        "NORTHING_1": 593276.02, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0979001951745, 
+          25.963200001047408
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952561.4, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "ETERNAL REEFS #15", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "7 MEMORIAL REEFBALLS", 
+        "REEF_PROFI": "4", 
+        "REEF_ID": 205, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "20130213", 
+        "LATITUDE": "25 57.792", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 05.974", 
+        "NORTHING_1": 593336.978, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07179999969048, 
+          25.897899999575674
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 961305.52, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Liberty Ship (O.L. Bodenhamer)", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "450' Steel Ship", 
+        "REEF_PROFI": "33", 
+        "REEF_ID": 206, 
+        "REEF_DEPTH": 365, 
+        "DATE_DEPLO": "19760501", 
+        "LATITUDE": "25 53.874", 
+        "REEF_SITE": "HAULOVER", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 04.308", 
+        "NORTHING_1": 569661.594, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07591666603604, 
+          25.80480000134073
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 960190.124, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Hopper Barge", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "175' Steel hopper barge", 
+        "REEF_PROFI": "15", 
+        "REEF_ID": 207, 
+        "REEF_DEPTH": 250, 
+        "DATE_DEPLO": "19711201", 
+        "LATITUDE": "25 48.288", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 04.555", 
+        "NORTHING_1": 535812.273, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12945000078386, 
+          25.94878333220585
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 942229.713, 
+        "REEF_TYPE": "MISCELLANEOUS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 587865.83, 
+        "REEF_DESCR": "Center point for 2889 tons rock limestone, tanks, drums, 4 vessels", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 1, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "1985-1998", 
+        "LATITUDE": "25 56.928", 
+        "REEF_SITE": "Dumfoundling Bay Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 7.764", 
+        "NORTHING_1": 588026.604, 
+        "EASTING_NA": 785992.617
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1296999996063, 
+          25.948583216283925
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 942148.043, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "6 at Sea", 
+        "NORTHING_N": 587792.588, 
+        "REEF_DESCR": "34' Aluminum Coast Guard Vessel", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 2, 
+        "REEF_DEPTH": 30, 
+        "DATE_DEPLO": "3/27/2004", 
+        "LATITUDE": "25 56.916", 
+        "REEF_SITE": "Dumfoundling Bay Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 7.782", 
+        "NORTHING_1": 587953.32, 
+        "EASTING_NA": 785910.947
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1285499999535, 
+          25.94898333399675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 942524.984, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Miami Beach Seawall Barge", 
+        "NORTHING_N": 587940.493, 
+        "REEF_DESCR": "100' x 30' barge", 
+        "REEF_PROFI": "7'", 
+        "REEF_ID": 3, 
+        "REEF_DEPTH": 35, 
+        "DATE_DEPLO": "4/22/2008", 
+        "LATITUDE": "25 56.940", 
+        "REEF_SITE": "Dumfoundling Bay Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 7.710", 
+        "NORTHING_1": 588101.268, 
+        "EASTING_NA": 786287.884
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14999999940005, 
+          25.92916666689307
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 935522.937, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 580691.277, 
+        "REEF_DESCR": "382 tons of limestone boulders (16' x 32')", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 4, 
+        "REEF_DEPTH": 10, 
+        "DATE_DEPLO": "12/1/1987", 
+        "LATITUDE": "25 55.752", 
+        "REEF_SITE": "Greynolds Park Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.000", 
+        "NORTHING_1": 580852.02, 
+        "EASTING_NA": 779285.922
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13338333320418, 
+          25.907216666327088
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 941037.084, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 572748.784, 
+        "REEF_DESCR": "2900 Tons of limestone boulders", 
+        "REEF_PROFI": "2'", 
+        "REEF_ID": 5, 
+        "REEF_DEPTH": 8, 
+        "DATE_DEPLO": "12/1/1991", 
+        "LATITUDE": "25 54.432", 
+        "REEF_SITE": "Oleta River State Park Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 8.004", 
+        "NORTHING_1": 572909.469, 
+        "EASTING_NA": 784800.002
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13348333252283, 
+          25.907316665264705
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 941003.971, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Eagle Scout Project", 
+        "NORTHING_N": 572784.914, 
+        "REEF_DESCR": "5 reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 6, 
+        "REEF_DEPTH": 13, 
+        "DATE_DEPLO": "11/1/2005", 
+        "LATITUDE": "25 54.438", 
+        "REEF_SITE": "Oleta River State Park Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 8.010", 
+        "NORTHING_1": 572945.599, 
+        "EASTING_NA": 784766.889
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13333333208331, 
+          25.90641666600976
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 941055.443, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Girl Scout Project", 
+        "NORTHING_N": 572458.113, 
+        "REEF_DESCR": "13 reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 7, 
+        "REEF_DEPTH": 13, 
+        "DATE_DEPLO": "3/1/2006", 
+        "LATITUDE": "25 54.384", 
+        "REEF_SITE": "Oleta River State Park Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 7.998", 
+        "NORTHING_1": 572618.796, 
+        "EASTING_NA": 784818.36
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15059999972259, 
+          25.8888499995444
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 935420.666, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 566035.955, 
+        "REEF_DESCR": "Concrete Culverts (Pipe and Rubble)", 
+        "REEF_PROFI": "0'", 
+        "REEF_ID": 8, 
+        "REEF_DEPTH": 7, 
+        "DATE_DEPLO": "1982-1991", 
+        "LATITUDE": "25 53.334", 
+        "REEF_SITE": "North Bayside Park Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.036", 
+        "NORTHING_1": 566196.606, 
+        "EASTING_NA": 779183.656
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1544666667485, 
+          25.882649999021897
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 934163.899, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 563774.215, 
+        "REEF_DESCR": "3611 tons of Limestone Boulders", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 9, 
+        "REEF_DEPTH": 25, 
+        "DATE_DEPLO": "12/1/1991", 
+        "LATITUDE": "25 52.962", 
+        "REEF_SITE": "San Souci Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.264", 
+        "NORTHING_1": 563934.853, 
+        "EASTING_NA": 777926.905
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16666666753301, 
+          25.84083333279388
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 930249.0, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 548549.438, 
+        "REEF_DESCR": "Concrete Culverts", 
+        "REEF_PROFI": "3'", 
+        "REEF_ID": 10, 
+        "REEF_DEPTH": 7, 
+        "DATE_DEPLO": "12/1/1979", 
+        "LATITUDE": "25 50.448", 
+        "REEF_SITE": "Pelican Harbor Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.996", 
+        "NORTHING_1": 548709.984, 
+        "EASTING_NA": 774012.063
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16458333347823, 
+          25.814166667598595
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 930995.811, 
+        "REEF_TYPE": "MISCELLANEOUS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 538861.29, 
+        "REEF_DESCR": "Center point for MacArthur, Venetian and 2nd Ave Bridges", 
+        "REEF_PROFI": "11'", 
+        "REEF_ID": 11, 
+        "REEF_DEPTH": 28, 
+        "DATE_DEPLO": "11/1/2001", 
+        "LATITUDE": "25 48.852", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.876", 
+        "NORTHING_1": 539021.773, 
+        "EASTING_NA": 774758.868
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16383333457296, 
+          25.814000000667306
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 931242.936, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Met Wreck Barge", 
+        "NORTHING_N": 538802.28, 
+        "REEF_DESCR": "200' x 50' steel barge", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 12, 
+        "REEF_DEPTH": 23, 
+        "DATE_DEPLO": "10/14/2005", 
+        "LATITUDE": "25 48.840", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.828", 
+        "NORTHING_1": 538962.762, 
+        "EASTING_NA": 775005.99
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16681666750259, 
+          25.812966665822326
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 930263.835, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 538420.469, 
+        "REEF_DESCR": "Concrete Pilings", 
+        "REEF_PROFI": "6'", 
+        "REEF_ID": 13, 
+        "REEF_DEPTH": 21, 
+        "DATE_DEPLO": "5/19/2006", 
+        "LATITUDE": "25 48.780", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 10.008", 
+        "NORTHING_1": 538580.949, 
+        "EASTING_NA": 774026.902
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1651166667327, 
+          25.814816667331865
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 930818.852, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "5th St. Bridge & Latitude Mitigation", 
+        "NORTHING_N": 539096.431, 
+        "REEF_DESCR": "Bridge Material and Limestone Boulders", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 14, 
+        "REEF_DEPTH": 22, 
+        "DATE_DEPLO": "3/21/2007", 
+        "LATITUDE": "25 48.888", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.906", 
+        "NORTHING_1": 539256.915, 
+        "EASTING_NA": 774581.911
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16576666617394, 
+          25.81428333227758
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 930606.241, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "RSMAS Dock - Phase 1", 
+        "NORTHING_N": 538901.224, 
+        "REEF_DESCR": "Concrete dock material", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 15, 
+        "REEF_DEPTH": 17, 
+        "DATE_DEPLO": "2/5/2008", 
+        "LATITUDE": "25 48.858", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.942", 
+        "NORTHING_1": 539061.707, 
+        "EASTING_NA": 774369.303
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16531666667117, 
+          25.814466665187545
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 930753.862, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "Sonny's Reef", 
+        "NORTHING_N": 538968.799, 
+        "REEF_DESCR": "Concrete Pilings", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 16, 
+        "REEF_DEPTH": 18, 
+        "DATE_DEPLO": "6/26/2008", 
+        "LATITUDE": "25 48.870", 
+        "REEF_SITE": "Julia Tuttle Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.918", 
+        "NORTHING_1": 539129.282, 
+        "EASTING_NA": 774516.922
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.15130000054378, 
+          25.77389999998131
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 935460.203, 
+        "REEF_TYPE": "MISCELLANEOUS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 524253.623, 
+        "REEF_DESCR": "Bridge Material and Limestone Boulders", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 17, 
+        "REEF_DEPTH": 12, 
+        "DATE_DEPLO": "1993-1997", 
+        "LATITUDE": "25 46.434", 
+        "REEF_SITE": "Star Island Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.078", 
+        "NORTHING_1": 524414.009, 
+        "EASTING_NA": 779223.203
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1963833326162, 
+          25.748599998829096
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 920679.436, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 514964.962, 
+        "REEF_DESCR": "3370 tons rock limestone", 
+        "REEF_PROFI": "6'", 
+        "REEF_ID": 18, 
+        "REEF_DEPTH": 12, 
+        "DATE_DEPLO": "12/1/1991", 
+        "LATITUDE": "25 44.916", 
+        "REEF_SITE": "Brickell Area Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 11.784", 
+        "NORTHING_1": 515125.289, 
+        "EASTING_NA": 764442.655
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1813833329307, 
+          25.745833332398
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 925623.18, 
+        "REEF_TYPE": "MISCELLANEOUS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 513989.748, 
+        "REEF_DESCR": "Concrete Rubble- Piles & Limestone boulders", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 19, 
+        "REEF_DEPTH": 10, 
+        "DATE_DEPLO": "12/1/1986", 
+        "LATITUDE": "25 44.748", 
+        "REEF_SITE": "Rickenbacker Cswy Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 10.884", 
+        "NORTHING_1": 514150.067, 
+        "EASTING_NA": 769386.331
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21166666698834, 
+          25.738050000882602
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 915671.598, 
+        "REEF_TYPE": "MISCELLANEOUS", 
+        "REEF_NAME": null, 
+        "NORTHING_N": 511100.082, 
+        "REEF_DESCR": "Concrete Rubble, vessels, contrite beams", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 20, 
+        "REEF_DEPTH": 10, 
+        "DATE_DEPLO": "1984-1998", 
+        "LATITUDE": "25 44.286", 
+        "REEF_SITE": "Mercy Hospital Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 12.696", 
+        "NORTHING_1": 511260.378, 
+        "EASTING_NA": 759434.907
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20981666594983, 
+          25.7379166665169
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 916280.899, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "Bay Harbor Mitigation", 
+        "NORTHING_N": 511055.264, 
+        "REEF_DESCR": "Concrete, steel, limestone boulders", 
+        "REEF_PROFI": "7'", 
+        "REEF_ID": 21, 
+        "REEF_DEPTH": 13, 
+        "DATE_DEPLO": "6/1/2006", 
+        "LATITUDE": "25 44.274", 
+        "REEF_SITE": "Mercy Hospital Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 12.588", 
+        "NORTHING_1": 511215.559, 
+        "EASTING_NA": 760044.199
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20990000017207, 
+          25.738149999422177
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 916252.958, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "Bicentennial Park Mitigation", 
+        "NORTHING_N": 511139.907, 
+        "REEF_DESCR": "Limestone Boulders", 
+        "REEF_PROFI": "7'", 
+        "REEF_ID": 22, 
+        "REEF_DEPTH": 13, 
+        "DATE_DEPLO": "7/1/2007", 
+        "LATITUDE": "25 44.292", 
+        "REEF_SITE": "Mercy Hospital Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 12.594", 
+        "NORTHING_1": 511300.203, 
+        "EASTING_NA": 760016.258
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08661666531698, 
+          25.98221666575481
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956220.659, 
+        "REEF_TYPE": "STEEL", 
+        "REEF_NAME": "West Tennecos", 
+        "NORTHING_N": 600114.109, 
+        "REEF_DESCR": "decommissioned oil rig platform structures", 
+        "REEF_PROFI": "30'", 
+        "REEF_ID": 23, 
+        "REEF_DEPTH": 105, 
+        "DATE_DEPLO": "10/1/1985", 
+        "LATITUDE": "25 58.932", 
+        "REEF_SITE": "TENNECO", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.196", 
+        "NORTHING_1": 600274.927, 
+        "EASTING_NA": 799983.402
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0854333318216, 
+          25.98226666775347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956609.287, 
+        "REEF_TYPE": "STEEL", 
+        "REEF_NAME": "Middle Tenneco", 
+        "NORTHING_N": 600135.001, 
+        "REEF_DESCR": "decommissioned oil rig platform structures", 
+        "REEF_PROFI": "45'", 
+        "REEF_ID": 24, 
+        "REEF_DEPTH": 110, 
+        "DATE_DEPLO": "10/1/1985", 
+        "LATITUDE": "25 58.938", 
+        "REEF_SITE": "TENNECO", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.124", 
+        "NORTHING_1": 600295.819, 
+        "EASTING_NA": 800372.026
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07998333312855, 
+          25.98168333242917
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958401.243, 
+        "REEF_TYPE": "STEEL", 
+        "REEF_NAME": "Deep Tennecos", 
+        "NORTHING_N": 599935.533, 
+        "REEF_DESCR": "2 tower structures", 
+        "REEF_PROFI": "80'", 
+        "REEF_ID": 25, 
+        "REEF_DEPTH": 185, 
+        "DATE_DEPLO": "10/1/1985", 
+        "LATITUDE": "25 58.902", 
+        "REEF_SITE": "TENNECO", 
+        "REEF_SOURC": "MSKAGGS", 
+        "LONGITUDE": "-80 4.800", 
+        "NORTHING_1": 600096.345, 
+        "EASTING_NA": 802163.962
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07698333406483, 
+          25.969349999918574
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959418.459, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Cruz Del Sur", 
+        "NORTHING_N": 595459.54, 
+        "REEF_DESCR": "287' steel ship", 
+        "REEF_PROFI": "95'", 
+        "REEF_ID": 26, 
+        "REEF_DEPTH": 240, 
+        "DATE_DEPLO": "12/1/1986", 
+        "LATITUDE": "25 58.164", 
+        "REEF_SITE": "TENNECO", 
+        "REEF_SOURC": "MSKAGGS", 
+        "LONGITUDE": "-80 4.620", 
+        "NORTHING_1": 595620.326, 
+        "EASTING_NA": 803181.163
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0977500011499, 
+          25.96266666736847
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952612.087, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "Golden Reef #1", 
+        "NORTHING_N": 592982.676, 
+        "REEF_DESCR": "Limestone boulder pile ~300T", 
+        "REEF_PROFI": "13'", 
+        "REEF_ID": 27, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "1/10/2005", 
+        "LATITUDE": "25 57.762", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.862", 
+        "NORTHING_1": 593143.461, 
+        "EASTING_NA": 796374.87
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09779999843961, 
+          25.962533332477925
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952595.993, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "Golden Reef #2", 
+        "NORTHING_N": 592934.099, 
+        "REEF_DESCR": "Limestone boulder pile ~300T", 
+        "REEF_PROFI": "12'", 
+        "REEF_ID": 28, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "1/10/2005", 
+        "LATITUDE": "25 57.750", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.868", 
+        "NORTHING_1": 593094.883, 
+        "EASTING_NA": 796358.775
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09808333397352, 
+          25.9626833333314
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952502.519, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "Golden Reef #3", 
+        "NORTHING_N": 592987.979, 
+        "REEF_DESCR": "Limestone boulder pile ~250T", 
+        "REEF_PROFI": "9'", 
+        "REEF_ID": 29, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "1/10/2005", 
+        "LATITUDE": "25 57.762", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.886", 
+        "NORTHING_1": 593148.764, 
+        "EASTING_NA": 796265.303
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09783333237628, 
+          25.962583333493946
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952584.915, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Eternal Reefs #1", 
+        "NORTHING_N": 592952.197, 
+        "REEF_DESCR": "12 memorial reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 30, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "2/23/2006", 
+        "LATITUDE": "25 57.756", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.868", 
+        "NORTHING_1": 593112.982, 
+        "EASTING_NA": 796347.697
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0978333322577, 
+          25.963083334095252
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952583.662, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Girl Scout Reef Balls", 
+        "NORTHING_N": 593133.937, 
+        "REEF_DESCR": "10 reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 31, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "3/25/2006", 
+        "LATITUDE": "25 57.786", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.868", 
+        "NORTHING_1": 593294.723, 
+        "EASTING_NA": 796346.444
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09786666666528, 
+          25.96258333204811
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952573.962, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Eternal Reefs #2", 
+        "NORTHING_N": 592952.122, 
+        "REEF_DESCR": "7 memorial reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 32, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "8/14/2006", 
+        "LATITUDE": "25 57.756", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.868", 
+        "NORTHING_1": 593112.906, 
+        "EASTING_NA": 796336.745
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09794999976943, 
+          25.962700000196588
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952546.288, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Eternal Reefs #3", 
+        "NORTHING_N": 592994.339, 
+        "REEF_DESCR": "10 memorial reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 33, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "1/19/2007", 
+        "LATITUDE": "25 57.762", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.874", 
+        "NORTHING_1": 593155.124, 
+        "EASTING_NA": 796309.071
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09806666569112, 
+          25.96249999888562
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952508.455, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Eternal Reefs #4", 
+        "NORTHING_N": 592921.379, 
+        "REEF_DESCR": "5 memorial reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 34, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "4/30/2007", 
+        "LATITUDE": "25 57.750", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.880", 
+        "NORTHING_1": 593082.163, 
+        "EASTING_NA": 796271.238
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09789999887599, 
+          25.962400000679377
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952563.469, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Eternal Reefs #5", 
+        "NORTHING_N": 592885.408, 
+        "REEF_DESCR": "12 memorial reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 35, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "8/7/2007", 
+        "LATITUDE": "25 57.744", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.874", 
+        "NORTHING_1": 593046.193, 
+        "EASTING_NA": 796326.251
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09795000087809, 
+          25.962783332935572
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952546.079, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Eternal Reefs #6", 
+        "NORTHING_N": 593024.629, 
+        "REEF_DESCR": "10 memorial reef balls", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 36, 
+        "REEF_DEPTH": 41, 
+        "DATE_DEPLO": "2/11/2008", 
+        "LATITUDE": "25 57.768", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.874", 
+        "NORTHING_1": 593185.414, 
+        "EASTING_NA": 796308.862
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09801666535766, 
+          25.962683333496663
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952524.425, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "Eternal Reefs #7", 
+        "NORTHING_N": 592988.13, 
+        "REEF_DESCR": "9 memorial reef balls", 
+        "REEF_PROFI": "3'", 
+        "REEF_ID": 37, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "7/18/2008", 
+        "LATITUDE": "25 57.762", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.880", 
+        "NORTHING_1": 593148.915, 
+        "EASTING_NA": 796287.208
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09311666535527, 
+          25.95076666576932
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954164.474, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "SIRRON Site1 (north)", 
+        "NORTHING_N": 588667.795, 
+        "REEF_DESCR": "80 modules-types M2, RR, & Dome", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 38, 
+        "REEF_DEPTH": 60, 
+        "DATE_DEPLO": "8/1/1991", 
+        "LATITUDE": "25 57.048", 
+        "REEF_SITE": "SUNNY ISLES MITIGATION", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.586", 
+        "NORTHING_1": 588828.552, 
+        "EASTING_NA": 797927.236
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09321666643406, 
+          25.94718333351436
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954140.633, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "SIRRON Site 2 (south)", 
+        "NORTHING_N": 587365.1, 
+        "REEF_DESCR": "81 modules-types M2, RR, & Dome", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 39, 
+        "REEF_DEPTH": 60, 
+        "DATE_DEPLO": "8/1/1991", 
+        "LATITUDE": "25 56.832", 
+        "REEF_SITE": "SUNNY ISLES MITIGATION", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.592", 
+        "NORTHING_1": 587525.85, 
+        "EASTING_NA": 797903.395
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09405000056844, 
+          25.938166666243497
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 953889.453, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "SIRRON Site 2 (north end)", 
+        "NORTHING_N": 584085.837, 
+        "REEF_DESCR": "20 modules (Dome and RR)", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 40, 
+        "REEF_DEPTH": 60, 
+        "DATE_DEPLO": "8/1/1991", 
+        "LATITUDE": "25 56.292", 
+        "REEF_SITE": "SUNNY ISLES MITIGATION", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.640", 
+        "NORTHING_1": 584246.568, 
+        "EASTING_NA": 797652.216
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09391666704533, 
+          25.936799999378717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 953936.709, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "SIRRON Site 2 (south end)", 
+        "NORTHING_N": 583589.386, 
+        "REEF_DESCR": "20 modules (Dome and RR)", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 41, 
+        "REEF_DEPTH": 60, 
+        "DATE_DEPLO": "8/1/1991", 
+        "LATITUDE": "25 56.208", 
+        "REEF_SITE": "SUNNY ISLES MITIGATION", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.634", 
+        "NORTHING_1": 583750.114, 
+        "EASTING_NA": 797699.471
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09011666724241, 
+          25.90890000061983
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955255.993, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "C-One", 
+        "NORTHING_N": 573457.006, 
+        "REEF_DESCR": "105' steel tug", 
+        "REEF_PROFI": "25'", 
+        "REEF_ID": 42, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "11/1/1990", 
+        "LATITUDE": "25 54.534", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.406", 
+        "NORTHING_1": 573617.674, 
+        "EASTING_NA": 799018.734
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09013333216684, 
+          25.909649999245868
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955248.623, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Conception (stern section)", 
+        "NORTHING_N": 573729.576, 
+        "REEF_DESCR": "150' steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 43, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "6/1/1991", 
+        "LATITUDE": "25 54.582", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.406", 
+        "NORTHING_1": 573890.245, 
+        "EASTING_NA": 799011.364
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08983333250995, 
+          25.909299999952015
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955348.124, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Conception (bow section)", 
+        "NORTHING_N": 573603.044, 
+        "REEF_DESCR": "150' steel ship", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 44, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "6/2/1991", 
+        "LATITUDE": "25 54.558", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.388", 
+        "NORTHING_1": 573763.712, 
+        "EASTING_NA": 799110.864
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08926666693634, 
+          25.908866667473873
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955535.497, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "unnamed", 
+        "NORTHING_N": 573446.83, 
+        "REEF_DESCR": "320 tons of concrete pipe", 
+        "REEF_PROFI": "12'", 
+        "REEF_ID": 45, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "7/1/1991", 
+        "LATITUDE": "25 54.534", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.352", 
+        "NORTHING_1": 573607.498, 
+        "EASTING_NA": 799298.235
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08961666657686, 
+          25.907716666257596
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955423.344, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "Sunny Isles Offsite Mitigation Reef", 
+        "NORTHING_N": 573028.032, 
+        "REEF_DESCR": "1500 tons boulder & 50 DERM modules", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 46, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "3/1/1993", 
+        "LATITUDE": "25 54.462", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.376", 
+        "NORTHING_1": 573188.697, 
+        "EASTING_NA": 799186.083
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0899333334257, 
+          25.90899999989792
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955316.008, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "White Coast", 
+        "NORTHING_N": 573493.772, 
+        "REEF_DESCR": "38' steel tug", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 47, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "5/1/1995", 
+        "LATITUDE": "25 54.540", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.394", 
+        "NORTHING_1": 573654.44, 
+        "EASTING_NA": 799078.748
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0898833326585, 
+          25.90526666604297
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955341.863, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Bal Harbour - 64 Modules", 
+        "NORTHING_N": 572136.904, 
+        "REEF_DESCR": "64 DERM concrete modules", 
+        "REEF_PROFI": "0'", 
+        "REEF_ID": 48, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "10/1/1996", 
+        "LATITUDE": "25 54.318", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.394", 
+        "NORTHING_1": 572297.564, 
+        "EASTING_NA": 799104.602
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08973333295944, 
+          25.90218333203402
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955398.953, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "Bal Harbour mitigation boulders", 
+        "NORTHING_N": 571016.525, 
+        "REEF_DESCR": "5,000 tons limestone boulders", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 49, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "4/1/1999", 
+        "LATITUDE": "25 54.132", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.382", 
+        "NORTHING_1": 571177.178, 
+        "EASTING_NA": 799161.691
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09004999949096, 
+          25.902999998282816
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955292.79, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Bal Harbour mitigation modules- nw corner", 
+        "NORTHING_N": 571312.642, 
+        "REEF_DESCR": "176 DERM concrete modules", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 50, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "5/1/1999", 
+        "LATITUDE": "25 54.180", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.400", 
+        "NORTHING_1": 571473.297, 
+        "EASTING_NA": 799055.529
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08941666708205, 
+          25.903000001085005
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955500.995, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Bal Harbour mitigation modules-ne corner", 
+        "NORTHING_N": 571314.088, 
+        "REEF_DESCR": "176 DERM concrete modules", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 51, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "5/2/1999", 
+        "LATITUDE": "25 54.180", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.364", 
+        "NORTHING_1": 571474.743, 
+        "EASTING_NA": 799263.732
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09006666562571, 
+          25.901366667390903
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955291.43, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Bal Harbour mitigation modules-sw corner", 
+        "NORTHING_N": 570718.925, 
+        "REEF_DESCR": "176 DERM concrete modules", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 52, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "5/3/1999", 
+        "LATITUDE": "25 54.084", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.400", 
+        "NORTHING_1": 570879.577, 
+        "EASTING_NA": 799054.169
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08941666694874, 
+          25.901350000549606
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955505.159, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Bal Harbour mitigation modules-se corner", 
+        "NORTHING_N": 570714.35, 
+        "REEF_DESCR": "176 DERM concrete modules", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 53, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "5/4/1999", 
+        "LATITUDE": "25 54.084", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.364", 
+        "NORTHING_1": 570875.002, 
+        "EASTING_NA": 799267.896
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09068333266507, 
+          25.9086666675125
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955070.302, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Lady Carmen", 
+        "NORTHING_N": 573370.902, 
+        "REEF_DESCR": "45' steel tug", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 54, 
+        "REEF_DEPTH": 65, 
+        "DATE_DEPLO": "7/1/1999", 
+        "LATITUDE": "25 54.522", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.442", 
+        "NORTHING_1": 573531.57, 
+        "EASTING_NA": 798833.045
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09046666662279, 
+          25.908200000201507
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955142.703, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Timothy Allen Reed", 
+        "NORTHING_N": 573201.773, 
+        "REEF_DESCR": "80' deck barge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 55, 
+        "REEF_DEPTH": 65, 
+        "DATE_DEPLO": "12/1/1999", 
+        "LATITUDE": "25 54.492", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.424", 
+        "NORTHING_1": 573362.44, 
+        "EASTING_NA": 798905.445
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08980000040087, 
+          25.904799998563835
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955370.435, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "ARCOS 1 Mitigation Reef", 
+        "NORTHING_N": 571967.472, 
+        "REEF_DESCR": "270 tons of limestone boulders", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 56, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "8/1/2001", 
+        "LATITUDE": "25 54.288", 
+        "REEF_SITE": "SUNNY ISLES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.388", 
+        "NORTHING_1": 572128.13, 
+        "EASTING_NA": 799133.174
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08543333492874, 
+          25.89369999896758
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956834.067, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Andro", 
+        "NORTHING_N": 567942.864, 
+        "REEF_DESCR": "165' steel ship", 
+        "REEF_PROFI": "25'", 
+        "REEF_ID": 57, 
+        "REEF_DEPTH": 104, 
+        "DATE_DEPLO": "12/1/1985", 
+        "LATITUDE": "25 53.622", 
+        "REEF_SITE": "HAULOVER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.124", 
+        "NORTHING_1": 568103.497, 
+        "EASTING_NA": 800596.786
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08424999886024, 
+          25.910600000792236
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957180.222, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Narwal", 
+        "NORTHING_N": 574088.347, 
+        "REEF_DESCR": "137' steel ship", 
+        "REEF_PROFI": "18'", 
+        "REEF_ID": 58, 
+        "REEF_DEPTH": 115, 
+        "DATE_DEPLO": "4/17/1986", 
+        "LATITUDE": "25 54.636", 
+        "REEF_SITE": "HAULOVER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.052", 
+        "NORTHING_1": 574249.016, 
+        "EASTING_NA": 800942.939
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07705000060153, 
+          25.904216665669907
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959563.371, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Rossmerry", 
+        "NORTHING_N": 571784.745, 
+        "REEF_DESCR": "195' steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 59, 
+        "REEF_DEPTH": 240, 
+        "DATE_DEPLO": "10/1/1987", 
+        "LATITUDE": "25 54.252", 
+        "REEF_SITE": "HAULOVER", 
+        "REEF_SOURC": "DEP-GPS", 
+        "LONGITUDE": "-80 4.620", 
+        "NORTHING_1": 571945.396, 
+        "EASTING_NA": 803326.057
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08078333319872, 
+          25.908949999723283
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958324.005, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Nick Comoglio (formerly Merci Rabi)", 
+        "NORTHING_N": 573496.585, 
+        "REEF_DESCR": "90' steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 60, 
+        "REEF_DEPTH": 170, 
+        "DATE_DEPLO": "1/1/1997", 
+        "LATITUDE": "25 54.540", 
+        "REEF_SITE": "HAULOVER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.848", 
+        "NORTHING_1": 573657.248, 
+        "EASTING_NA": 802086.708
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07969999868197, 
+          25.906666666631583
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958685.954, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Largo Barge", 
+        "NORTHING_N": 572669.142, 
+        "REEF_DESCR": "60' barge", 
+        "REEF_PROFI": "0'", 
+        "REEF_ID": 61, 
+        "REEF_DEPTH": 180, 
+        "DATE_DEPLO": "6/1/1995", 
+        "LATITUDE": "25 54.402", 
+        "REEF_SITE": "HAULOVER", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.782", 
+        "NORTHING_1": 572829.8, 
+        "EASTING_NA": 802448.651
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0774500008549, 
+          25.849283334200713
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959572.201, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Lotus", 
+        "NORTHING_N": 551816.835, 
+        "REEF_DESCR": "110' steel ship", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 63, 
+        "REEF_DEPTH": 218, 
+        "DATE_DEPLO": "2/1/1971", 
+        "LATITUDE": "25 50.958", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.644", 
+        "NORTHING_1": 551977.372, 
+        "EASTING_NA": 803334.874
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08164999797515, 
+          25.826100000310614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958249.713, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Pimellous", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "120' steel ship", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 64, 
+        "REEF_DEPTH": 135, 
+        "DATE_DEPLO": "5/1/1971", 
+        "LATITUDE": "25 49.566", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.896", 
+        "NORTHING_1": 543541.097, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08258333352336, 
+          25.821516666676214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957954.305, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Deep Freeze", 
+        "NORTHING_N": 541712.543, 
+        "REEF_DESCR": "210' steel ship", 
+        "REEF_PROFI": "25'", 
+        "REEF_ID": 65, 
+        "REEF_DEPTH": 135, 
+        "DATE_DEPLO": "10/1/1976", 
+        "LATITUDE": "25 49.290", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.956", 
+        "NORTHING_1": 541873.023, 
+        "EASTING_NA": 801716.994
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07940000031667, 
+          25.820199999223952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959004.88, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Raychel", 
+        "NORTHING_N": 541241.288, 
+        "REEF_DESCR": "164' salvaged steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 66, 
+        "REEF_DEPTH": 185, 
+        "DATE_DEPLO": "7/1/1991", 
+        "LATITUDE": "25 49.212", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.764", 
+        "NORTHING_1": 541401.763, 
+        "EASTING_NA": 802767.554
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08478333228658, 
+          25.82103333302823
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957231.791, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Tortuga", 
+        "NORTHING_N": 541531.822, 
+        "REEF_DESCR": "165' steel ship", 
+        "REEF_PROFI": "40'", 
+        "REEF_ID": 67, 
+        "REEF_DEPTH": 110, 
+        "DATE_DEPLO": "4/1/1995", 
+        "LATITUDE": "25 49.260", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.088", 
+        "NORTHING_1": 541692.301, 
+        "EASTING_NA": 800994.489
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08495000095536, 
+          25.82203333277766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957174.433, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "St. Henry's Express", 
+        "NORTHING_N": 541894.914, 
+        "REEF_DESCR": "120'  steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 68, 
+        "REEF_DEPTH": 113, 
+        "DATE_DEPLO": "2/1/1997", 
+        "LATITUDE": "25 49.320", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.094", 
+        "NORTHING_1": 542055.395, 
+        "EASTING_NA": 800937.133
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08516666601521, 
+          25.822600000415154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957101.724, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Betek Ar Pen", 
+        "NORTHING_N": 542100.386, 
+        "REEF_DESCR": "70' steel dive boat", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 69, 
+        "REEF_DEPTH": 110, 
+        "DATE_DEPLO": "6/1/1997", 
+        "LATITUDE": "25 49.356", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.106", 
+        "NORTHING_1": 542260.869, 
+        "EASTING_NA": 800864.424
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0809166676739, 
+          25.824983332114304
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958493.785, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Gimrock 697 Barge carrying Water Tower", 
+        "NORTHING_N": 542976.414, 
+        "REEF_DESCR": "195' steel scow barge", 
+        "REEF_PROFI": "25'", 
+        "REEF_ID": 70, 
+        "REEF_DEPTH": 170, 
+        "DATE_DEPLO": "6/1/1997", 
+        "LATITUDE": "25 49.500", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.854", 
+        "NORTHING_1": 543136.9, 
+        "EASTING_NA": 802256.467
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0806499998429, 
+          25.824866666531605
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958581.805, 
+        "REEF_TYPE": "STEEL", 
+        "REEF_NAME": "South Point Water Tower Reef", 
+        "NORTHING_N": 542934.622, 
+        "REEF_DESCR": "45' steel water tower", 
+        "REEF_PROFI": "65'", 
+        "REEF_ID": 71, 
+        "REEF_DEPTH": 170, 
+        "DATE_DEPLO": "6/1/1997", 
+        "LATITUDE": "25 49.494", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.836", 
+        "NORTHING_1": 543095.108, 
+        "EASTING_NA": 802344.486
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08461666633636, 
+          25.820566667272157
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957287.8, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Gimrock 898/ Atlas Recycling Barge", 
+        "NORTHING_N": 541362.583, 
+        "REEF_DESCR": "195' steel hopper barge", 
+        "REEF_PROFI": "19'", 
+        "REEF_ID": 72, 
+        "REEF_DEPTH": 112, 
+        "DATE_DEPLO": "8/1/1998", 
+        "LATITUDE": "25 49.236", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.076", 
+        "NORTHING_1": 541523.061, 
+        "EASTING_NA": 801050.497
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08118333352266, 
+          25.816150000584596
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958428.49, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Cleve Jones, Sr. (formerly Jupiter Star)", 
+        "NORTHING_N": 539765.118, 
+        "REEF_DESCR": "232' steel freighter", 
+        "REEF_PROFI": "40'", 
+        "REEF_ID": 73, 
+        "REEF_DEPTH": 155, 
+        "DATE_DEPLO": "8/1/2001", 
+        "LATITUDE": "25 48.972", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.872", 
+        "NORTHING_1": 539925.585, 
+        "EASTING_NA": 802191.171
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08428333334493, 
+          25.822549999162664
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957392.439, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Gimrock 402 Barge", 
+        "NORTHING_N": 542084.235, 
+        "REEF_DESCR": "120' steel deck barge", 
+        "REEF_PROFI": "9'", 
+        "REEF_ID": 74, 
+        "REEF_DEPTH": 111, 
+        "DATE_DEPLO": "4/2/2002", 
+        "LATITUDE": "25 49.356", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.058", 
+        "NORTHING_1": 542244.717, 
+        "EASTING_NA": 801155.135
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07908333366908, 
+          25.81916666703565
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959111.685, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Pascagoula", 
+        "NORTHING_N": 540866.427, 
+        "REEF_DESCR": "120' steel deck barge", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 75, 
+        "REEF_DEPTH": 180, 
+        "DATE_DEPLO": "10/9/2002", 
+        "LATITUDE": "25 49.152", 
+        "REEF_SITE": "PFLUEGER", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.746", 
+        "NORTHING_1": 541026.901, 
+        "EASTING_NA": 802874.357
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09345000078855, 
+          25.810316666553327
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954407.539, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Shamrock", 
+        "NORTHING_N": 537616.862, 
+        "REEF_DESCR": "120' steel", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 76, 
+        "REEF_DEPTH": 50, 
+        "DATE_DEPLO": "6/1/1985", 
+        "LATITUDE": "25 48.618", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.604", 
+        "NORTHING_1": 537777.319, 
+        "EASTING_NA": 798170.274
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09031666585378, 
+          25.812783334212035
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955432.213, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "John C. Koppin Memorial (Billy's Barge)", 
+        "NORTHING_N": 538520.542, 
+        "REEF_DESCR": "100' steel barge", 
+        "REEF_PROFI": "7'", 
+        "REEF_ID": 77, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "12/12/1987", 
+        "LATITUDE": "25 48.768", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.418", 
+        "NORTHING_1": 538681.005, 
+        "EASTING_NA": 799194.934
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09242407468074, 
+          25.813946394859904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954735.97, 
+        "REEF_TYPE": "STEEL", 
+        "REEF_NAME": "Bridge beams", 
+        "NORTHING_N": 538938.495, 
+        "REEF_DESCR": "Six 90' \"I\" beams", 
+        "REEF_PROFI": "7'", 
+        "REEF_ID": 78, 
+        "REEF_DEPTH": 48, 
+        "DATE_DEPLO": "12/18/1987", 
+        "LATITUDE": "25 48.840", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.544", 
+        "NORTHING_1": 539098.96, 
+        "EASTING_NA": 798498.701
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09220000117716, 
+          25.810250000275765
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954818.958, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "unnamed", 
+        "NORTHING_N": 537595.466, 
+        "REEF_DESCR": "360 tons of concrete pipe", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 79, 
+        "REEF_DEPTH": 51, 
+        "DATE_DEPLO": "9/1/1987", 
+        "LATITUDE": "25 48.618", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.532", 
+        "NORTHING_1": 537755.923, 
+        "EASTING_NA": 798581.688
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08943333340585, 
+          25.812349999750246
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955723.915, 
+        "REEF_TYPE": "STEEL", 
+        "REEF_NAME": "Radio Tower Pyramids", 
+        "NORTHING_N": 538365.048, 
+        "REEF_DESCR": "19 steel antenna pyramids", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 80, 
+        "REEF_DEPTH": 50, 
+        "DATE_DEPLO": "8/1/1988", 
+        "LATITUDE": "25 48.744", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.364", 
+        "NORTHING_1": 538525.509, 
+        "EASTING_NA": 799486.632
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08908333158176, 
+          25.812850000914057
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955837.806, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Miss Karline (Karleen)", 
+        "NORTHING_N": 538547.582, 
+        "REEF_DESCR": "85' steel hull", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 81, 
+        "REEF_DEPTH": 51, 
+        "DATE_DEPLO": "6/1/1989", 
+        "LATITUDE": "25 48.774", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.346", 
+        "NORTHING_1": 538708.044, 
+        "EASTING_NA": 799600.521
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08939999888472, 
+          25.813266665321635
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955732.576, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Patricia", 
+        "NORTHING_N": 538698.307, 
+        "REEF_DESCR": "65' steel tug", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 82, 
+        "REEF_DEPTH": 53, 
+        "DATE_DEPLO": "6/1/1990", 
+        "LATITUDE": "25 48.798", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.364", 
+        "NORTHING_1": 538858.77, 
+        "EASTING_NA": 799495.293
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09086666770811, 
+          25.811249999984742
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955255.116, 
+        "REEF_TYPE": "TANKS", 
+        "REEF_NAME": "Army Tank #1", 
+        "NORTHING_N": 537961.967, 
+        "REEF_DESCR": "M60 Army Tank", 
+        "REEF_PROFI": "12'", 
+        "REEF_ID": 83, 
+        "REEF_DEPTH": 49, 
+        "DATE_DEPLO": "6/1/1994", 
+        "LATITUDE": "25 48.678", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.448", 
+        "NORTHING_1": 538122.426, 
+        "EASTING_NA": 799017.84
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09118333383468, 
+          25.81123333197476
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955150.975, 
+        "REEF_TYPE": "TANKS", 
+        "REEF_NAME": "Army Tank #2", 
+        "NORTHING_N": 537955.189, 
+        "REEF_DESCR": "M60 Army Tank", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 84, 
+        "REEF_DEPTH": 47, 
+        "DATE_DEPLO": "6/1/1994", 
+        "LATITUDE": "25 48.672", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.472", 
+        "NORTHING_1": 538115.648, 
+        "EASTING_NA": 798913.7
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09103333222711, 
+          25.811199998525538
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955200.409, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "Limestone Boulder", 
+        "NORTHING_N": 537943.415, 
+        "REEF_DESCR": "400 tons of limestone boulders", 
+        "REEF_PROFI": "11'", 
+        "REEF_ID": 85, 
+        "REEF_DEPTH": 47, 
+        "DATE_DEPLO": "6/1/1994", 
+        "LATITUDE": "25 48.672", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.460", 
+        "NORTHING_1": 538103.873, 
+        "EASTING_NA": 798963.133
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08954999808525, 
+          25.813050000433336
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955683.772, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "Limestone Boulder", 
+        "NORTHING_N": 538619.213, 
+        "REEF_DESCR": "1060 tons of 3' to 5' limestone boulders", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 86, 
+        "REEF_DEPTH": 48, 
+        "DATE_DEPLO": "6/1/1995", 
+        "LATITUDE": "25 48.786", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.370", 
+        "NORTHING_1": 538779.676, 
+        "EASTING_NA": 799446.489
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09059999883033, 
+          25.811533333680313
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955342.138, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Larsen Barge", 
+        "NORTHING_N": 538065.557, 
+        "REEF_DESCR": "60' deck barge (resting hull up)", 
+        "REEF_PROFI": "7'", 
+        "REEF_ID": 87, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "1/1/1999", 
+        "LATITUDE": "25 48.690", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.436", 
+        "NORTHING_1": 538226.017, 
+        "EASTING_NA": 799104.86
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09079999922166, 
+          25.809750000966318
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955280.817, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Police Barge", 
+        "NORTHING_N": 537416.91, 
+        "REEF_DESCR": "100' barge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 88, 
+        "REEF_DEPTH": 50, 
+        "DATE_DEPLO": null, 
+        "LATITUDE": "25 48.588", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.448", 
+        "NORTHING_1": 537577.366, 
+        "EASTING_NA": 799043.54
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09216666774697, 
+          25.813799998294673
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954821.022, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Police Barge #2", 
+        "NORTHING_N": 538885.869, 
+        "REEF_DESCR": "80' barge", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 89, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": null, 
+        "LATITUDE": "25 48.828", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.526", 
+        "NORTHING_1": 539046.333, 
+        "EASTING_NA": 798583.752
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09008333227905, 
+          25.811433332169766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955512.372, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Matthew Lawrence Memorial Reef (Number Seven)", 
+        "NORTHING_N": 538030.385, 
+        "REEF_DESCR": "110' Steel ship", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 90, 
+        "REEF_DEPTH": 48, 
+        "DATE_DEPLO": "2/1/1996", 
+        "LATITUDE": "25 48.684", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.406", 
+        "NORTHING_1": 538190.844, 
+        "EASTING_NA": 799275.092
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09606666702896, 
+          25.810466666973166
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 953546.277, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Coquina", 
+        "NORTHING_N": 537665.459, 
+        "REEF_DESCR": "50' steel (hull up)", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 91, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "6/9/1905", 
+        "LATITUDE": "25 48.630", 
+        "REEF_SITE": "ANCHORAGE", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.760", 
+        "NORTHING_1": 537825.918, 
+        "EASTING_NA": 797309.024
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.10699999912775, 
+          25.772966667616963
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 950041.642, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Port of Miami mitigation reef  (A.2)", 
+        "NORTHING_N": 524010.751, 
+        "REEF_DESCR": "50 on 100' centers (10x5 matrix)", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 92, 
+        "REEF_DEPTH": 25, 
+        "DATE_DEPLO": "7/1/1996", 
+        "LATITUDE": "25 46.380", 
+        "REEF_SITE": "POM SITE A - NORTH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 6.420", 
+        "NORTHING_1": 524171.129, 
+        "EASTING_NA": 793804.433
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.10693333200756, 
+          25.771083333427256
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 950068.222, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Port of Miami mitigation reef  (A.3)", 
+        "NORTHING_N": 523326.365, 
+        "REEF_DESCR": "50 on 50' centers (7x7 matrix)", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 93, 
+        "REEF_DEPTH": 25, 
+        "DATE_DEPLO": "7/1/1996", 
+        "LATITUDE": "25 46.266", 
+        "REEF_SITE": "POM SITE A - NORTH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 6.414", 
+        "NORTHING_1": 523486.739, 
+        "EASTING_NA": 793831.012
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.10466666758109, 
+          25.768150000003875
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 950821.446, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Port of Miami mitigation reef  (A.4)", 
+        "NORTHING_N": 522265.25, 
+        "REEF_DESCR": "50 on 10' centers (cluster)", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 94, 
+        "REEF_DEPTH": 25, 
+        "DATE_DEPLO": "8/1/1996", 
+        "LATITUDE": "25 46.092", 
+        "REEF_SITE": "POM SITE A - NORTH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 6.276", 
+        "NORTHING_1": 522425.617, 
+        "EASTING_NA": 794584.226
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.10668333264347, 
+          25.77439999851617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 950142.326, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "Port of Miami mitigation reef  (A.1)", 
+        "NORTHING_N": 524532.43, 
+        "REEF_DESCR": "495 mods on 25' ctrs (29x16 matrix)", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 95, 
+        "REEF_DEPTH": 25, 
+        "DATE_DEPLO": "7/1/1996", 
+        "LATITUDE": "25 46.464", 
+        "REEF_SITE": "POM SITE A - NORTH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 6.402", 
+        "NORTHING_1": 524692.811, 
+        "EASTING_NA": 793905.116
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12760000018407, 
+          25.764833334075657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943281.681, 
+        "REEF_TYPE": "TETRA", 
+        "REEF_NAME": "SoBe Tetra reef  (T1)", 
+        "NORTHING_N": 521009.124, 
+        "REEF_DESCR": "Concrete Tetrahedron pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 96, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/2/1998", 
+        "LATITUDE": "25 45.888", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.656", 
+        "NORTHING_1": 521169.486, 
+        "EASTING_NA": 787044.569
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12660000050354, 
+          25.76523333205127
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943609.843, 
+        "REEF_TYPE": "TETRA", 
+        "REEF_NAME": "SoBe Tetra reef  (T2)", 
+        "NORTHING_N": 521156.691, 
+        "REEF_DESCR": "Concrete Tetrahedron pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 97, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/3/1998", 
+        "LATITUDE": "25 45.912", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.596", 
+        "NORTHING_1": 521317.053, 
+        "EASTING_NA": 787372.726
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12775000029313, 
+          25.765633332687134
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943230.388, 
+        "REEF_TYPE": "TETRA", 
+        "REEF_NAME": "SoBe Tetra reef  (T3)", 
+        "NORTHING_N": 521299.571, 
+        "REEF_DESCR": "Concrete Tetrahedron pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 98, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/4/1998", 
+        "LATITUDE": "25 45.936", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.662", 
+        "NORTHING_1": 521459.935, 
+        "EASTING_NA": 786993.277
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12681666563964, 
+          25.766249999787682
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943536.085, 
+        "REEF_TYPE": "TETRA", 
+        "REEF_NAME": "SoBe Tetra reef  (T4)", 
+        "NORTHING_N": 521525.744, 
+        "REEF_DESCR": "Concrete Tetrahedron pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 99, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/5/1998", 
+        "LATITUDE": "25 45.978", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.608", 
+        "NORTHING_1": 521686.109, 
+        "EASTING_NA": 787298.969
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12789999932625, 
+          25.766966665354953
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943177.813, 
+        "REEF_TYPE": "TETRA", 
+        "REEF_NAME": "SoBe Tetra reef  (T5)", 
+        "NORTHING_N": 521783.869, 
+        "REEF_DESCR": "Concrete Tetrahedron pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 100, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/6/1998", 
+        "LATITUDE": "25 46.020", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.674", 
+        "NORTHING_1": 521944.235, 
+        "EASTING_NA": 786940.702
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12781666596827, 
+          25.76780000046564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943203.235, 
+        "REEF_TYPE": "TETRA", 
+        "REEF_NAME": "SoBe Tetra reef  (T6)", 
+        "NORTHING_N": 522086.94, 
+        "REEF_DESCR": "Concrete Tetrahedron pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 101, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/7/1998", 
+        "LATITUDE": "25 46.068", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.668", 
+        "NORTHING_1": 522247.309, 
+        "EASTING_NA": 786966.124
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12698333224795, 
+          25.767983333482025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943477.058, 
+        "REEF_TYPE": "TETRA", 
+        "REEF_NAME": "SoBe Tetra reef  (T7)", 
+        "NORTHING_N": 522155.392, 
+        "REEF_DESCR": "Concrete Tetrahedron pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 102, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/8/1998", 
+        "LATITUDE": "25 46.080", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.620", 
+        "NORTHING_1": 522315.761, 
+        "EASTING_NA": 787239.943
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12725000045378, 
+          25.768549999404513
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943387.929, 
+        "REEF_TYPE": "TETRA", 
+        "REEF_NAME": "SoBe Tetra reef  (T8)", 
+        "NORTHING_N": 522360.776, 
+        "REEF_DESCR": "Concrete Tetrahedron pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 103, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/9/1998", 
+        "LATITUDE": "25 46.116", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.632", 
+        "NORTHING_1": 522521.146, 
+        "EASTING_NA": 787150.816
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12753333347845, 
+          25.763966665004624
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943305.708, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "SoBe rip-rap reef  (B1)", 
+        "NORTHING_N": 520694.264, 
+        "REEF_DESCR": "Limestone boulder pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 104, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/10/1998", 
+        "LATITUDE": "25 45.840", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.650", 
+        "NORTHING_1": 520854.623, 
+        "EASTING_NA": 787068.596
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12660000027378, 
+          25.76416666628504
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943612.412, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "SoBe rip-rap reef  (B2)", 
+        "NORTHING_N": 520768.992, 
+        "REEF_DESCR": "Limestone boulder pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 105, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/11/1998", 
+        "LATITUDE": "25 45.852", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.596", 
+        "NORTHING_1": 520929.352, 
+        "EASTING_NA": 787375.295
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12783333408953, 
+          25.76616666559961
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943201.678, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "SoBe rip-rap reef (B3)", 
+        "NORTHING_N": 521493.239, 
+        "REEF_DESCR": "Limestone boulder pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 106, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/12/1998", 
+        "LATITUDE": "25 45.972", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.668", 
+        "NORTHING_1": 521653.604, 
+        "EASTING_NA": 786964.567
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12690000102029, 
+          25.767066664806475
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943506.691, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "SoBe rip-rap reef  (B4)", 
+        "NORTHING_N": 521822.395, 
+        "REEF_DESCR": "Limestone boulder pile", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 107, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/13/1998", 
+        "LATITUDE": "25 46.026", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.614", 
+        "NORTHING_1": 521982.761, 
+        "EASTING_NA": 787269.576
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12823333287157, 
+          25.768900000338256
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943063.458, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "Jose Cuervo Reef", 
+        "NORTHING_N": 522485.848, 
+        "REEF_DESCR": "Concrete bar & tetrahedron", 
+        "REEF_PROFI": "9'", 
+        "REEF_ID": 108, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "5/1/2000", 
+        "LATITUDE": "25 46.134", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.692", 
+        "NORTHING_1": 522646.219, 
+        "EASTING_NA": 786826.349
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12646666523321, 
+          25.7676166654815
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943647.985, 
+        "REEF_TYPE": "UNKNOWN", 
+        "REEF_NAME": "UNID pile", 
+        "NORTHING_N": 522023.247, 
+        "REEF_DESCR": "UNID pile", 
+        "REEF_PROFI": "9'", 
+        "REEF_ID": 109, 
+        "REEF_DEPTH": 20, 
+        "DATE_DEPLO": "6/1/1998", 
+        "LATITUDE": "25 46.056", 
+        "REEF_SITE": "SOUTH MIAMI BEACH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 7.584", 
+        "NORTHING_1": 522183.615, 
+        "EASTING_NA": 787410.867
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09474999853134, 
+          25.75211666598003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954125.217, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "POM B Row 1 (northern extent)", 
+        "NORTHING_N": 516459.916, 
+        "REEF_DESCR": "120,000tons of boulders in 11 rows & 36 piles", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 110, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "9/1/1996", 
+        "LATITUDE": "25 45.126", 
+        "REEF_SITE": "POM SITE B - SOUTH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.682", 
+        "NORTHING_1": 516620.246, 
+        "EASTING_NA": 797887.946
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09496666636277, 
+          25.74998333378469
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954059.22, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "POM B Pile 21 (center)", 
+        "NORTHING_N": 515684.025, 
+        "REEF_DESCR": "120,000tons of boulders in 11 rows & 36 piles", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 111, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "9/1/1996", 
+        "LATITUDE": "25 45.000", 
+        "REEF_SITE": "POM SITE B - SOUTH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.694", 
+        "NORTHING_1": 515844.351, 
+        "EASTING_NA": 797821.95
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.094716667646, 
+          25.74823333208795
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954145.878, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "POM B Row 11 (southern extent)", 
+        "NORTHING_N": 515048.519, 
+        "REEF_DESCR": "120,000tons of boulders in 11 rows & 36 piles", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 112, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "9/1/1996", 
+        "LATITUDE": "25 44.892", 
+        "REEF_SITE": "POM SITE B - SOUTH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.682", 
+        "NORTHING_1": 515208.84, 
+        "EASTING_NA": 797908.608
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08839999894886, 
+          25.704183332459003
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956335.74, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Biscayne", 
+        "NORTHING_N": 499052.066, 
+        "REEF_DESCR": "120' steel ship", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 113, 
+        "REEF_DEPTH": 60, 
+        "DATE_DEPLO": "12/1/1974", 
+        "LATITUDE": "25 42.252", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.304", 
+        "NORTHING_1": 499212.278, 
+        "EASTING_NA": 800098.455
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08615000012976, 
+          25.69148333209594
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957108.581, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Orion", 
+        "NORTHING_N": 494441.154, 
+        "REEF_DESCR": "118' steel tug", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 114, 
+        "REEF_DEPTH": 88, 
+        "DATE_DEPLO": "12/1/1981", 
+        "LATITUDE": "25 41.490", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.166", 
+        "NORTHING_1": 494601.335, 
+        "EASTING_NA": 800871.289
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08570000029891, 
+          25.69884999926448
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957238.252, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "unnamed", 
+        "NORTHING_N": 497119.718, 
+        "REEF_DESCR": "40' steel house boat", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 115, 
+        "REEF_DEPTH": 95, 
+        "DATE_DEPLO": "5/1/1982", 
+        "LATITUDE": "25 41.934", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.142", 
+        "NORTHING_1": 497279.918, 
+        "EASTING_NA": 801000.955
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08349999851691, 
+          25.701116667155148
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957957.018, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Lakeland", 
+        "NORTHING_N": 497948.597, 
+        "REEF_DESCR": "200' steel ship", 
+        "REEF_PROFI": "25'", 
+        "REEF_ID": 116, 
+        "REEF_DEPTH": 135, 
+        "DATE_DEPLO": "6/1/1982", 
+        "LATITUDE": "25 42.066", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.010", 
+        "NORTHING_1": 498108.803, 
+        "EASTING_NA": 801719.708
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07755000033185, 
+          25.700033333129564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959919.123, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Star Trek", 
+        "NORTHING_N": 497568.477, 
+        "REEF_DESCR": "200' steel ship", 
+        "REEF_PROFI": "32'", 
+        "REEF_ID": 117, 
+        "REEF_DEPTH": 210, 
+        "DATE_DEPLO": "7/1/1982", 
+        "LATITUDE": "25 42.000", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.650", 
+        "NORTHING_1": 497728.681, 
+        "EASTING_NA": 803681.783
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0870666676691, 
+          25.699749998433564
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956785.935, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "South Seas", 
+        "NORTHING_N": 497443.727, 
+        "REEF_DESCR": "134' steel hull", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 118, 
+        "REEF_DEPTH": 75, 
+        "DATE_DEPLO": "2/1/1983", 
+        "LATITUDE": "25 41.988", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.220", 
+        "NORTHING_1": 497603.928, 
+        "EASTING_NA": 800548.646
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08733333286554, 
+          25.705516666355084
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956683.639, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Proteus", 
+        "NORTHING_N": 499539.114, 
+        "REEF_DESCR": "220' steel hull", 
+        "REEF_PROFI": "18'", 
+        "REEF_ID": 119, 
+        "REEF_DEPTH": 72, 
+        "DATE_DEPLO": "1/1/1985", 
+        "LATITUDE": "25 42.330", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.238", 
+        "NORTHING_1": 499699.33, 
+        "EASTING_NA": 800446.348
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08794999860777, 
+          25.697066667330873
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956501.781, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Belcher Barge", 
+        "NORTHING_N": 496466.415, 
+        "REEF_DESCR": "195' steel barge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 120, 
+        "REEF_DEPTH": 58, 
+        "DATE_DEPLO": "11/1/1985", 
+        "LATITUDE": "25 41.826", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.274", 
+        "NORTHING_1": 496626.61, 
+        "EASTING_NA": 800264.496
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07976666635469, 
+          25.70576666809257
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959174.643, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Mystick Isle", 
+        "NORTHING_N": 499647.268, 
+        "REEF_DESCR": "103' steel ferry", 
+        "REEF_PROFI": "35'", 
+        "REEF_ID": 121, 
+        "REEF_DEPTH": 185, 
+        "DATE_DEPLO": "5/1/1986", 
+        "LATITUDE": "25 42.348", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.782", 
+        "NORTHING_1": 499807.486, 
+        "EASTING_NA": 802937.313
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08761666701044, 
+          25.700516665877778
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956602.892, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "unnamed", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "500 tons of concrete bridge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 122, 
+        "REEF_DEPTH": 65, 
+        "DATE_DEPLO": "7/1/1986", 
+        "LATITUDE": "25 42.030", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.256", 
+        "NORTHING_1": 497881.337, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08823333393092, 
+          25.697350000201492
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956407.764, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Lady Frei", 
+        "NORTHING_N": 496568.753, 
+        "REEF_DESCR": "90' sailing schooner", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 123, 
+        "REEF_DEPTH": 60, 
+        "DATE_DEPLO": "12/1/1986", 
+        "LATITUDE": "25 41.844", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM (appr", 
+        "LONGITUDE": "-80 5.292", 
+        "NORTHING_1": 496728.949, 
+        "EASTING_NA": 800170.481
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08639999973606, 
+          25.70203333232508
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956999.734, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Sheri-Lyn (bow section)", 
+        "NORTHING_N": 498275.161, 
+        "REEF_DESCR": "235' steel ship", 
+        "REEF_PROFI": "22'", 
+        "REEF_ID": 124, 
+        "REEF_DEPTH": 96, 
+        "DATE_DEPLO": "6/1/1987", 
+        "LATITUDE": "25 42.120", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.184", 
+        "NORTHING_1": 498435.368, 
+        "EASTING_NA": 800762.44
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08604999860133, 
+          25.70231666711233
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957114.277, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Sheri-Lyn (stern section)", 
+        "NORTHING_N": 498378.94, 
+        "REEF_DESCR": "235' steel ship", 
+        "REEF_PROFI": "22'", 
+        "REEF_ID": 125, 
+        "REEF_DEPTH": 100, 
+        "DATE_DEPLO": "6/1/1987", 
+        "LATITUDE": "25 42.138", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.160", 
+        "NORTHING_1": 498539.149, 
+        "EASTING_NA": 800876.98
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08818333231304, 
+          25.70398333389626
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956407.589, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Miracles Express", 
+        "NORTHING_N": 498979.865, 
+        "REEF_DESCR": "100' steel ship", 
+        "REEF_PROFI": "6'", 
+        "REEF_ID": 126, 
+        "REEF_DEPTH": 64, 
+        "DATE_DEPLO": "7/1/1987", 
+        "LATITUDE": "25 42.240", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.292", 
+        "NORTHING_1": 499140.077, 
+        "EASTING_NA": 800170.303
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08711666732476, 
+          25.702649998109347
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956762.186, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Rio Miami", 
+        "NORTHING_N": 498497.667, 
+        "REEF_DESCR": "105' steel tug", 
+        "REEF_PROFI": "30'", 
+        "REEF_ID": 127, 
+        "REEF_DEPTH": 67, 
+        "DATE_DEPLO": "11/1/1989", 
+        "LATITUDE": "25 42.162", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.226", 
+        "NORTHING_1": 498657.876, 
+        "EASTING_NA": 800524.896
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0873333321569, 
+          25.695883334287956
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956707.829, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Belzona I", 
+        "NORTHING_N": 496037.714, 
+        "REEF_DESCR": "85' steel tug", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 128, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "5/1/1990", 
+        "LATITUDE": "25 41.754", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.238", 
+        "NORTHING_1": 496197.907, 
+        "EASTING_NA": 800470.541
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0878833331817, 
+          25.696616665867577
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956524.864, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Belzona II", 
+        "NORTHING_N": 496303.006, 
+        "REEF_DESCR": "90' steel tug", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 129, 
+        "REEF_DEPTH": 60, 
+        "DATE_DEPLO": "2/1/1991", 
+        "LATITUDE": "25 41.796", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.274", 
+        "NORTHING_1": 496463.2, 
+        "EASTING_NA": 800287.579
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08696666568007, 
+          25.6959333323156
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956828.453, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Belzona III", 
+        "NORTHING_N": 496056.722, 
+        "REEF_DESCR": "100' steel tug", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 130, 
+        "REEF_DEPTH": 65, 
+        "DATE_DEPLO": "6/1/1991", 
+        "LATITUDE": "25 41.754", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.214", 
+        "NORTHING_1": 496216.914, 
+        "EASTING_NA": 800591.164
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09258333361859, 
+          25.699466667349753
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 954969.967, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Belzona Barge", 
+        "NORTHING_N": 497328.23, 
+        "REEF_DESCR": "215' steel barge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 131, 
+        "REEF_DEPTH": 40, 
+        "DATE_DEPLO": "8/1/1991", 
+        "LATITUDE": "25 41.970", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.556", 
+        "NORTHING_1": 497488.43, 
+        "EASTING_NA": 798732.707
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08783333209209, 
+          25.698583333436893
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956536.395, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "John Maydak Memorial Reef- Tug 1", 
+        "NORTHING_N": 497017.938, 
+        "REEF_DESCR": "75' tug", 
+        "REEF_PROFI": "7'", 
+        "REEF_ID": 132, 
+        "REEF_DEPTH": 64, 
+        "DATE_DEPLO": "7/1/1992", 
+        "LATITUDE": "25 41.916", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.268", 
+        "NORTHING_1": 497178.137, 
+        "EASTING_NA": 800299.109
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08810000013193, 
+          25.699083331917553
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956447.324, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "John Maydak Memorial Reef- Tug 2", 
+        "NORTHING_N": 497199.065, 
+        "REEF_DESCR": "45' tug resting hull up", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 133, 
+        "REEF_DEPTH": 56, 
+        "DATE_DEPLO": "7/1/1992", 
+        "LATITUDE": "25 41.946", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.286", 
+        "NORTHING_1": 497359.265, 
+        "EASTING_NA": 800210.04
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0869999998023, 
+          25.69800000055309
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956812.285, 
+        "REEF_TYPE": "JET", 
+        "REEF_NAME": "Spirit of Miami", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "727 jet", 
+        "REEF_PROFI": "15", 
+        "REEF_ID": 134, 
+        "REEF_DEPTH": 115, 
+        "DATE_DEPLO": "9/1/1993", 
+        "LATITUDE": "25 41.931", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.142", 
+        "NORTHING_1": 496968.009, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08695000056257, 
+          25.69698333269475
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956831.304, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Schurger's Barge", 
+        "NORTHING_N": 496438.4, 
+        "REEF_DESCR": "90' steel barge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 135, 
+        "REEF_DEPTH": 74, 
+        "DATE_DEPLO": "10/1/1996", 
+        "LATITUDE": "25 41.820", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.214", 
+        "NORTHING_1": 496598.595, 
+        "EASTING_NA": 800594.015
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09193333196781, 
+          25.713333332541392
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955149.366, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "SMZ Buoy Reef NW", 
+        "NORTHING_N": 502369.776, 
+        "REEF_DESCR": "10 Modules/ 550 tons limestone boulders", 
+        "REEF_PROFI": "12'", 
+        "REEF_ID": 136, 
+        "REEF_DEPTH": 38, 
+        "DATE_DEPLO": "6/1/1997", 
+        "LATITUDE": "25 42.798", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.514", 
+        "NORTHING_1": 502530.011, 
+        "EASTING_NA": 798912.096
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09195000003348, 
+          25.688616667298675
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955205.629, 
+        "REEF_TYPE": "MODULES", 
+        "REEF_NAME": "SMZ Buoy Reef SW", 
+        "NORTHING_N": 493386.052, 
+        "REEF_DESCR": "11 Modules/ 550 tons limestone boulders", 
+        "REEF_PROFI": "12'", 
+        "REEF_ID": 137, 
+        "REEF_DEPTH": 38, 
+        "DATE_DEPLO": "6/1/1997", 
+        "LATITUDE": "25 41.316", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.514", 
+        "NORTHING_1": 493546.225, 
+        "EASTING_NA": 798968.369
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07379999997663, 
+          25.69838333337659
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 961158.228, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Davey Hurst", 
+        "NORTHING_N": 496977.394, 
+        "REEF_DESCR": "90' steel ship", 
+        "REEF_PROFI": "18'", 
+        "REEF_ID": 138, 
+        "REEF_DEPTH": 265, 
+        "DATE_DEPLO": "4/1/1998", 
+        "LATITUDE": "25 41.904", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.428", 
+        "NORTHING_1": 497137.595, 
+        "EASTING_NA": 804920.868
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08228333343241, 
+          25.704050000526642
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958350.263, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Jack Falafian", 
+        "NORTHING_N": 499017.549, 
+        "REEF_DESCR": "80' steel tug", 
+        "REEF_PROFI": "16'", 
+        "REEF_ID": 139, 
+        "REEF_DEPTH": 150, 
+        "DATE_DEPLO": "5/1/1998", 
+        "LATITUDE": "25 42.246", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.938", 
+        "NORTHING_1": 499177.763, 
+        "EASTING_NA": 802112.947
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07721666769947, 
+          25.708033332350876
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 960008.578, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Augie Ferrigno (formerly Rex Baer)", 
+        "NORTHING_N": 500476.987, 
+        "REEF_DESCR": "273' steel ship", 
+        "REEF_PROFI": "80'", 
+        "REEF_ID": 140, 
+        "REEF_DEPTH": 226, 
+        "DATE_DEPLO": "6/1/1998", 
+        "LATITUDE": "25 42.480", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.632", 
+        "NORTHING_1": 500637.21, 
+        "EASTING_NA": 803771.234
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08718333393166, 
+          25.696999999783078
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956754.422, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "H.A.V. Parker III Barge", 
+        "NORTHING_N": 496443.927, 
+        "REEF_DESCR": "120' steel barge", 
+        "REEF_PROFI": "8'", 
+        "REEF_ID": 141, 
+        "REEF_DEPTH": 70, 
+        "DATE_DEPLO": "8/1/1998", 
+        "LATITUDE": "25 41.820", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.232", 
+        "NORTHING_1": 496604.122, 
+        "EASTING_NA": 800517.134
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08666666704468, 
+          25.697816666153155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956922.516, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Ultra Quiz Houseboat Barge", 
+        "NORTHING_N": 496741.934, 
+        "REEF_DESCR": "30' steel houseboat", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 142, 
+        "REEF_DEPTH": 70, 
+        "DATE_DEPLO": "10/1/1998", 
+        "LATITUDE": "25 41.868", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.196", 
+        "NORTHING_1": 496902.131, 
+        "EASTING_NA": 800685.225
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0810666674406, 
+          25.707416666539302
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958742.392, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Gimrock 300 Barges", 
+        "NORTHING_N": 500244.009, 
+        "REEF_DESCR": "195' scow w/ 140' deck barge", 
+        "REEF_PROFI": "24'", 
+        "REEF_ID": 143, 
+        "REEF_DEPTH": 165, 
+        "DATE_DEPLO": "3/1/2000", 
+        "LATITUDE": "25 42.444", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.860", 
+        "NORTHING_1": 500404.231, 
+        "EASTING_NA": 802505.068
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08698333452108, 
+          25.701716667879865
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956808.437, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Paraiso III", 
+        "NORTHING_N": 498158.735, 
+        "REEF_DESCR": "115' steel ship", 
+        "REEF_PROFI": "22'", 
+        "REEF_ID": 144, 
+        "REEF_DEPTH": 76, 
+        "DATE_DEPLO": "3/1/2000", 
+        "LATITUDE": "25 42.102", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.220", 
+        "NORTHING_1": 498318.942, 
+        "EASTING_NA": 800571.146
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08496666509254, 
+          25.73005000080254
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957401.159, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Captain Harry (formerly Lady Philomise)", 
+        "NORTHING_N": 508461.589, 
+        "REEF_DESCR": "90' steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 145, 
+        "REEF_DEPTH": 120, 
+        "DATE_DEPLO": "5/1/2000", 
+        "LATITUDE": "25 43.806", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.094", 
+        "NORTHING_1": 508621.866, 
+        "EASTING_NA": 801163.848
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07841666528613, 
+          25.70574999945939
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 959619.228, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Mary Star of the Sea (1/2)", 
+        "NORTHING_N": 499644.309, 
+        "REEF_DESCR": "Section of 138' steel ship", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 146, 
+        "REEF_DEPTH": 208, 
+        "DATE_DEPLO": "12/13/2000", 
+        "LATITUDE": "25 42.348", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.704", 
+        "NORTHING_1": 499804.527, 
+        "EASTING_NA": 803381.89
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07515000055379, 
+          25.709133332743214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 960686.3, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Mary Star of the Sea (2/2)", 
+        "NORTHING_N": 500881.562, 
+        "REEF_DESCR": "Remainder of 138' steel ship", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 147, 
+        "REEF_DEPTH": 210, 
+        "DATE_DEPLO": "12/13/2000", 
+        "LATITUDE": "25 42.546", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.506", 
+        "NORTHING_1": 501041.788, 
+        "EASTING_NA": 804448.945
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07533333378483, 
+          25.70953333358752
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 960624.914, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Spirit of Hemingway", 
+        "NORTHING_N": 501026.526, 
+        "REEF_DESCR": "65' steel sailboat", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 148, 
+        "REEF_DEPTH": 244, 
+        "DATE_DEPLO": "4/5/2001", 
+        "LATITUDE": "25 42.570", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.518", 
+        "NORTHING_1": 501186.754, 
+        "EASTING_NA": 804387.56
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07621666491657, 
+          25.688883333668358
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 960386.532, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Miss Lucy", 
+        "NORTHING_N": 493518.881, 
+        "REEF_DESCR": "40' steel tugboat", 
+        "REEF_PROFI": "18'", 
+        "REEF_ID": 149, 
+        "REEF_DEPTH": 224, 
+        "DATE_DEPLO": "5/1/2001", 
+        "LATITUDE": "25 41.334", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.572", 
+        "NORTHING_1": 493679.059, 
+        "EASTING_NA": 804149.187
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08319999879751, 
+          25.699433332046475
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958060.055, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Etoile de Mer", 
+        "NORTHING_N": 497337.446, 
+        "REEF_DESCR": "80' steel ship seized by US Customs", 
+        "REEF_PROFI": "25'", 
+        "REEF_ID": 150, 
+        "REEF_DEPTH": 131, 
+        "DATE_DEPLO": "7/1/2001", 
+        "LATITUDE": "25 41.964", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.992", 
+        "NORTHING_1": 497497.647, 
+        "EASTING_NA": 801822.744
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0827333344727, 
+          25.699266666880607
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958214.152, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Miguana", 
+        "NORTHING_N": 497277.934, 
+        "REEF_DESCR": "100' steel ship seized by US Customs", 
+        "REEF_PROFI": "30'", 
+        "REEF_ID": 151, 
+        "REEF_DEPTH": 138, 
+        "DATE_DEPLO": "7/1/2001", 
+        "LATITUDE": "25 41.958", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.962", 
+        "NORTHING_1": 497438.136, 
+        "EASTING_NA": 801976.84
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08236666557097, 
+          25.699483333102098
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958334.352, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Brandy Wine", 
+        "NORTHING_N": 497357.524, 
+        "REEF_DESCR": "135' steel ship seized by US Customs", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 152, 
+        "REEF_DEPTH": 145, 
+        "DATE_DEPLO": "7/1/2001", 
+        "LATITUDE": "25 41.970", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.938", 
+        "NORTHING_1": 497517.726, 
+        "EASTING_NA": 802097.037
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08230000097159, 
+          25.690900000369233
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958377.973, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Wreckboy (Watson Island) Barge", 
+        "NORTHING_N": 494237.917, 
+        "REEF_DESCR": "80' derelict barge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 153, 
+        "REEF_DEPTH": 150, 
+        "DATE_DEPLO": "10/22/2001", 
+        "LATITUDE": "25 41.454", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 4.938", 
+        "NORTHING_1": 494398.098, 
+        "EASTING_NA": 802140.661
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08438333375648, 
+          25.70018333264808
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957668.484, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Tacoma", 
+        "NORTHING_N": 497607.344, 
+        "REEF_DESCR": "165' steel ship", 
+        "REEF_PROFI": "35'", 
+        "REEF_ID": 154, 
+        "REEF_DEPTH": 120, 
+        "DATE_DEPLO": "2/1/2002", 
+        "LATITUDE": "25 42.012", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.064", 
+        "NORTHING_1": 497767.547, 
+        "EASTING_NA": 801431.18
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08609999877643, 
+          25.703633332245097
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957094.501, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Sara Jane/Barge", 
+        "NORTHING_N": 498857.392, 
+        "REEF_DESCR": "65' wooden ship broken apart-next to 100' barge", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 155, 
+        "REEF_DEPTH": 100, 
+        "DATE_DEPLO": "9/1/1981", 
+        "LATITUDE": "25 42.216", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": null, 
+        "LONGITUDE": "-80 5.166", 
+        "NORTHING_1": 499017.603, 
+        "EASTING_NA": 800857.204
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08681666559121, 
+          25.70046666647904
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956866.462, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Princess Britney", 
+        "NORTHING_N": 497704.78, 
+        "REEF_DESCR": "165' freighter seized by US Customs", 
+        "REEF_PROFI": "35'", 
+        "REEF_ID": 156, 
+        "REEF_DEPTH": 85, 
+        "DATE_DEPLO": "4/3/2003", 
+        "LATITUDE": "25 42.030", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.208", 
+        "NORTHING_1": 497864.984, 
+        "EASTING_NA": 800629.17
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08691666749145, 
+          25.703633334146485
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956825.575, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "DEMA Trader", 
+        "NORTHING_N": 498855.532, 
+        "REEF_DESCR": "165' freighter with concrete and module", 
+        "REEF_PROFI": "34'", 
+        "REEF_ID": 157, 
+        "REEF_DEPTH": 80, 
+        "DATE_DEPLO": "10/28/2003", 
+        "LATITUDE": "25 42.216", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.214", 
+        "NORTHING_1": 499015.744, 
+        "EASTING_NA": 800588.283
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.07500000091132, 
+          25.706999999556405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 960741.123, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Gimrock 504 Barge", 
+        "NORTHING_N": 500106.509, 
+        "REEF_DESCR": "100' steel deck barge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 158, 
+        "REEF_DEPTH": 248, 
+        "DATE_DEPLO": "5/26/2004", 
+        "LATITUDE": "25 42.420", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.500", 
+        "NORTHING_1": 500266.73, 
+        "EASTING_NA": 804503.768
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0833333346734, 
+          25.706299998801093
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957998.827, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Bunnell Barge", 
+        "NORTHING_N": 499832.951, 
+        "REEF_DESCR": "130' steel deck barge", 
+        "REEF_PROFI": "7'", 
+        "REEF_ID": 159, 
+        "REEF_DEPTH": 130, 
+        "DATE_DEPLO": "8/30/2004", 
+        "LATITUDE": "25 42.378", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 4.998", 
+        "NORTHING_1": 499993.169, 
+        "EASTING_NA": 801761.516
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08996666679943, 
+          25.700583333899534
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955828.859, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "Neptune Memorial Reef- Phase 1", 
+        "NORTHING_N": 497740.027, 
+        "REEF_DESCR": "Prefabricated concrete and bronze pieces", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 160, 
+        "REEF_DEPTH": 45, 
+        "DATE_DEPLO": "10/1/2007", 
+        "LATITUDE": "25 42.036", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.394", 
+        "NORTHING_1": 497900.231, 
+        "EASTING_NA": 799591.584
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08380000031147, 
+          25.619116667443038
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 958064.624, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Hopper Barge", 
+        "NORTHING_N": 468143.755, 
+        "REEF_DESCR": "150' steel barge", 
+        "REEF_PROFI": "15'", 
+        "REEF_ID": 161, 
+        "REEF_DEPTH": 160, 
+        "DATE_DEPLO": "6/1/1981", 
+        "LATITUDE": "25 37.146", 
+        "REEF_SITE": "R.J. DIVING VENTURES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.028", 
+        "NORTHING_1": 468303.758, 
+        "EASTING_NA": 801827.343
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08691666692302, 
+          25.629016666464004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957012.792, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Ultra Freeze", 
+        "NORTHING_N": 471734.954, 
+        "REEF_DESCR": "195' steel ship", 
+        "REEF_PROFI": "45'", 
+        "REEF_ID": 162, 
+        "REEF_DEPTH": 120, 
+        "DATE_DEPLO": "7/1/1984", 
+        "LATITUDE": "25 37.740", 
+        "REEF_SITE": "R.J. DIVING VENTURES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.214", 
+        "NORTHING_1": 471894.98, 
+        "EASTING_NA": 800775.526
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09051666822556, 
+          25.617700000061074
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955854.825, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "St. Anne D' Auray", 
+        "NORTHING_N": 467613.604, 
+        "REEF_DESCR": "110' steel ship", 
+        "REEF_PROFI": "28'", 
+        "REEF_ID": 163, 
+        "REEF_DEPTH": 68, 
+        "DATE_DEPLO": "3/1/1986", 
+        "LATITUDE": "25 37.062", 
+        "REEF_SITE": "R.J. DIVING VENTURES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.430", 
+        "NORTHING_1": 467773.6, 
+        "EASTING_NA": 799617.585
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09076666662548, 
+          25.621916666789993
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955761.925, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Tarpoon", 
+        "NORTHING_N": 469145.641, 
+        "REEF_DESCR": "165' steel ship", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 164, 
+        "REEF_DEPTH": 50, 
+        "DATE_DEPLO": "5/1/1988", 
+        "LATITUDE": "25 37.314", 
+        "REEF_SITE": "R.J. DIVING VENTURES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.442", 
+        "NORTHING_1": 469305.647, 
+        "EASTING_NA": 799524.685
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08976666569392, 
+          25.59095000090813
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956168.731, 
+        "REEF_TYPE": "STEEL", 
+        "REEF_NAME": "Sonar Dish", 
+        "NORTHING_N": 457892.687, 
+        "REEF_DESCR": "Sonar dish pilings", 
+        "REEF_PROFI": "5'", 
+        "REEF_ID": 165, 
+        "REEF_DEPTH": 80, 
+        "DATE_DEPLO": null, 
+        "LATITUDE": "25 35.460", 
+        "REEF_SITE": "R.J. DIVING VENTURES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.382", 
+        "NORTHING_1": 458052.616, 
+        "EASTING_NA": 799931.496
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08939999996387, 
+          25.623199998914952
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 956209.064, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Moby One", 
+        "NORTHING_N": 469615.177, 
+        "REEF_DESCR": "75' wooden shrimper", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 166, 
+        "REEF_DEPTH": 97, 
+        "DATE_DEPLO": "7/1/1983", 
+        "LATITUDE": "25 37.392", 
+        "REEF_SITE": "R.J. DIVING VENTURES", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.364", 
+        "NORTHING_1": 469775.187, 
+        "EASTING_NA": 799971.815
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09058333369607, 
+          25.566783334451785
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 955959.752, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Blue Fire", 
+        "NORTHING_N": 449107.204, 
+        "REEF_DESCR": "175' steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 167, 
+        "REEF_DEPTH": 110, 
+        "DATE_DEPLO": "1/1/1983", 
+        "LATITUDE": "25 34.008", 
+        "REEF_SITE": "DADE SPORTFISHING COUNCIL - NORTH", 
+        "REEF_SOURC": "LADS", 
+        "LONGITUDE": "-80 5.436", 
+        "NORTHING_1": 449267.07, 
+        "EASTING_NA": 799722.532
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08738333230397, 
+          25.529816667202297
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957107.007, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Sir Scott", 
+        "NORTHING_N": 435678.55, 
+        "REEF_DESCR": "267' steel ship", 
+        "REEF_PROFI": "65'", 
+        "REEF_ID": 168, 
+        "REEF_DEPTH": 220, 
+        "DATE_DEPLO": "2/1/1985", 
+        "LATITUDE": "25 31.788", 
+        "REEF_SITE": "DADE SPORTFISHING COUNCIL - MIDDLE", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.244", 
+        "NORTHING_1": 435838.325, 
+        "EASTING_NA": 800869.779
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.11795000049287, 
+          25.415916666274388
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 947301.084, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Almirante", 
+        "NORTHING_N": 394213.076, 
+        "REEF_DESCR": "200' steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 169, 
+        "REEF_DEPTH": 125, 
+        "DATE_DEPLO": "4/1/1975", 
+        "LATITUDE": "25 24.954", 
+        "REEF_SITE": "DADE SPORTFISHING COUNCIL - SOUTH", 
+        "REEF_SOURC": "MSKAGGS", 
+        "LONGITUDE": "-80 7.074", 
+        "NORTHING_1": 394372.576, 
+        "EASTING_NA": 791063.941
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.11909999915035, 
+          25.412916665130084
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 946928.685, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "Belcher Barge (BB120 or Old Biscayne)", 
+        "NORTHING_N": 393120.215, 
+        "REEF_DESCR": "85' steel barge", 
+        "REEF_PROFI": "10'", 
+        "REEF_ID": 170, 
+        "REEF_DEPTH": 120, 
+        "DATE_DEPLO": "10/1/1975", 
+        "LATITUDE": "25 24.774", 
+        "REEF_SITE": "DADE SPORTFISHING COUNCIL - SOUTH", 
+        "REEF_SOURC": "RJ DIVING", 
+        "LONGITUDE": "-80 7.146", 
+        "NORTHING_1": 393279.708, 
+        "EASTING_NA": 790691.546
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13108333200884, 
+          25.36761666727672
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943080.177, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Doc De Milly", 
+        "NORTHING_N": 376630.024, 
+        "REEF_DESCR": "287' steel ship", 
+        "REEF_PROFI": "50'", 
+        "REEF_ID": 171, 
+        "REEF_DEPTH": 140, 
+        "DATE_DEPLO": "3/1/1986", 
+        "LATITUDE": "25 22.056", 
+        "REEF_SITE": "FISH AND GAME UNLIMITED", 
+        "REEF_SOURC": "RJ DIVING", 
+        "LONGITUDE": "-80 7.866", 
+        "NORTHING_1": 376789.42, 
+        "EASTING_NA": 786843.063
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13021666572652, 
+          25.368883332064154
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943363.367, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Berry Patch", 
+        "NORTHING_N": 377092.252, 
+        "REEF_DESCR": "155' steel ship", 
+        "REEF_PROFI": "24'", 
+        "REEF_ID": 172, 
+        "REEF_DEPTH": 150, 
+        "DATE_DEPLO": "10/1/1988", 
+        "LATITUDE": "25 22.134", 
+        "REEF_SITE": "FISH AND GAME UNLIMITED", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 7.812", 
+        "NORTHING_1": 377251.651, 
+        "EASTING_NA": 787126.247
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13038333144857, 
+          25.36711666680405
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 943312.508, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Hugo's April Fool", 
+        "NORTHING_N": 376449.802, 
+        "REEF_DESCR": "115' steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 173, 
+        "REEF_DEPTH": 145, 
+        "DATE_DEPLO": "10/1/1988", 
+        "LATITUDE": "25 22.026", 
+        "REEF_SITE": "FISH AND GAME UNLIMITED", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 7.824", 
+        "NORTHING_1": 376609.197, 
+        "EASTING_NA": 787075.387
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13554999915962, 
+          25.36870000115717
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 941602.681, 
+        "REEF_TYPE": "JET", 
+        "REEF_NAME": "F-4 Fighter Jets", 
+        "NORTHING_N": 377014.204, 
+        "REEF_DESCR": "Two F-4 Fighter Jets", 
+        "REEF_PROFI": "9'", 
+        "REEF_ID": 174, 
+        "REEF_DEPTH": 80, 
+        "DATE_DEPLO": "3/1/1988", 
+        "LATITUDE": "25 22.122", 
+        "REEF_SITE": "FISH AND GAME UNLIMITED", 
+        "REEF_SOURC": "DEP-LOR", 
+        "LONGITUDE": "-80 8.130", 
+        "NORTHING_1": 377173.599, 
+        "EASTING_NA": 785365.607
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.11829999862836, 
+          25.384766666323948
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 947260.293, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Scott Mason Chaite (frmr Ocean Freeze)", 
+        "NORTHING_N": 382890.811, 
+        "REEF_DESCR": "297' steel ship", 
+        "REEF_PROFI": "50'", 
+        "REEF_ID": 175, 
+        "REEF_DEPTH": 240, 
+        "DATE_DEPLO": "7/1/1998", 
+        "LATITUDE": "25 23.088", 
+        "REEF_SITE": "FISH AND GAME UNLIMITED", 
+        "REEF_SOURC": "DER", 
+        "LONGITUDE": "-80 7.098", 
+        "NORTHING_1": 383050.25, 
+        "EASTING_NA": 791023.098
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.14990000076833, 
+          25.296566665150653
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 937030.622, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Club Wreck", 
+        "NORTHING_N": 350767.266, 
+        "REEF_DESCR": "Approx. 140' steel ship", 
+        "REEF_PROFI": "20'", 
+        "REEF_ID": 176, 
+        "REEF_DEPTH": 220, 
+        "DATE_DEPLO": null, 
+        "LATITUDE": "25 17.796", 
+        "REEF_SITE": "FISH AND GAME UNLIMITED", 
+        "REEF_SOURC": "DER", 
+        "LONGITUDE": "-80 8.994", 
+        "NORTHING_1": 350926.514, 
+        "EASTING_NA": 780793.571
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13448333175577, 
+          25.727566666531157
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 941105.093, 
+        "REEF_TYPE": "SHIP", 
+        "REEF_NAME": "Half Moon Wreck", 
+        "NORTHING_N": 507449.009, 
+        "REEF_DESCR": "154' steel sailing yacht", 
+        "REEF_PROFI": "4'", 
+        "REEF_ID": 177, 
+        "REEF_DEPTH": 10, 
+        "DATE_DEPLO": "April 1905", 
+        "LATITUDE": "25 43.656", 
+        "REEF_SITE": "NONE", 
+        "REEF_SOURC": "DEP-LOR", 
+        "LONGITUDE": "-80 8.070", 
+        "NORTHING_1": 507609.277, 
+        "EASTING_NA": 784868.031
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.1653464559832, 
+          25.81431996900617
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 930744.4, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "RSMAS DOCKS - PHASE 2", 
+        "NORTHING_N": 538920.337, 
+        "REEF_DESCR": "CONCRETE DOCK MATERIAL", 
+        "REEF_PROFI": "3'", 
+        "REEF_ID": 178, 
+        "REEF_DEPTH": 17, 
+        "DATE_DEPLO": "00080729", 
+        "LATITUDE": "25 48.858", 
+        "REEF_SITE": "JULIA TUTTLE", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 9.918", 
+        "NORTHING_1": 539075.9, 
+        "EASTING_NA": 774517.23
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09788071605348, 
+          25.962601560948155
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952569.3, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "ETERNAL REEFS #8", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "6 memorial reef balls", 
+        "REEF_PROFI": "3", 
+        "REEF_ID": 179, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "20090220", 
+        "LATITUDE": "25 57.756", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.874", 
+        "NORTHING_1": 593119.5, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.0979804814478, 
+          25.96296836347776
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952535.6, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "ETERNAL REEFS #9", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "9 memorial reef balls", 
+        "REEF_PROFI": "3", 
+        "REEF_ID": 180, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "20090710", 
+        "LATITUDE": "25 57.780", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.874", 
+        "NORTHING_1": 593252.6, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.09783062245057, 
+          25.96278502660851
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 952585.3, 
+        "REEF_TYPE": "REEF BALLS", 
+        "REEF_NAME": "ETERNAL REEFS #10", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "6 memorial reef balls", 
+        "REEF_PROFI": "2", 
+        "REEF_ID": 181, 
+        "REEF_DEPTH": 43, 
+        "DATE_DEPLO": "20100329", 
+        "LATITUDE": "25 57.768", 
+        "REEF_SITE": "GOLDEN BEACH", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.868", 
+        "NORTHING_1": 593186.3, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12861366126532, 
+          25.948968398435735
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 942504.1, 
+        "REEF_TYPE": "BOULDERS", 
+        "REEF_NAME": "DFB BOULDERS", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "1000 TONS OF LIMESTONE BOULDERS", 
+        "REEF_PROFI": "15", 
+        "REEF_ID": 182, 
+        "REEF_DEPTH": 35, 
+        "DATE_DEPLO": "20081010", 
+        "LATITUDE": "25 56.940", 
+        "REEF_SITE": "Dumfoundling Bay Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 7.716", 
+        "NORTHING_1": 588095.7, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12878028880067, 
+          25.949151805254168
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 942448.9, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "TWO ISLANDS MITIGATION", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "~7500 CY OF CONCRETE MATERIAL", 
+        "REEF_PROFI": "18", 
+        "REEF_ID": 183, 
+        "REEF_DEPTH": 38, 
+        "DATE_DEPLO": "20100325", 
+        "LATITUDE": "25 56.952", 
+        "REEF_SITE": "Dumfoundling Bay Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 7.728", 
+        "NORTHING_1": 588162.0, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13361367315935, 
+          25.906202382653387
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 940963.8, 
+        "REEF_TYPE": "CONCRETE", 
+        "REEF_NAME": "DOCK AND MARINE CONCRETE", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "80 CY OF CONCRETE MATERIAL", 
+        "REEF_PROFI": "3", 
+        "REEF_ID": 184, 
+        "REEF_DEPTH": 12, 
+        "DATE_DEPLO": "20100308", 
+        "LATITUDE": "25 54.372", 
+        "REEF_SITE": "Oleta River State Park Reef", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 8.016", 
+        "NORTHING_1": 572540.3, 
+        "EASTING_NA": 0.0
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.08506400954079, 
+          25.702421224722137
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "EASTING__1": 957438.7, 
+        "REEF_TYPE": "BARGE", 
+        "REEF_NAME": "MIAMI RIVER BARGE (ZT202)", 
+        "NORTHING_N": 0.0, 
+        "REEF_DESCR": "210' HOPPER BARGE", 
+        "REEF_PROFI": "17", 
+        "REEF_ID": 185, 
+        "REEF_DEPTH": 120, 
+        "DATE_DEPLO": "20081125", 
+        "LATITUDE": "25 42.146", 
+        "REEF_SITE": "KEY BISCAYNE \"SMZ\"", 
+        "REEF_SOURC": "DERM", 
+        "LONGITUDE": "-80 5.102", 
+        "NORTHING_1": 498579.4, 
+        "EASTING_NA": 0.0
+      }
+    }
+  ]
+}

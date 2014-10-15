@@ -1,0 +1,203 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2554819977515, 
+          25.815578849481685
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FLD004145140", 
+        "FOLIO": "3031210001060", 
+        "NAME": "Airco Plating", 
+        "LON": -80.25548, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/aircopfl.htm", 
+        "POINT_X": 901088.625379852, 
+        "POINT_Y": 539355.500408926, 
+        "ADDRESS": "3650 NW 46 St.", 
+        "LAT": 25.81558, 
+        "DERMPERMIT": "HWR-55"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.22063529883678, 
+          25.924119738214195
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FLD981014368", 
+        "FOLIO": "3421140070120", 
+        "NAME": "Anodyne Inc.", 
+        "LON": -80.22064, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/anoddynfl.htm", 
+        "POINT_X": 912318.31217431, 
+        "POINT_Y": 578873.249693724, 
+        "ADDRESS": "1270 NW 165 St.", 
+        "LAT": 25.92412, 
+        "DERMPERMIT": "IW5-4649"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2995726031692, 
+          25.840076198180853
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FLD004574190", 
+        "FOLIO": "0430130010172", 
+        "NAME": "B&B Chemical", 
+        "LON": -80.29957, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/b&bchmfl.htm", 
+        "POINT_X": 886536.3749982989, 
+        "POINT_Y": 548179.749761144, 
+        "ADDRESS": "875 W 20 St.", 
+        "LAT": 25.84008, 
+        "DERMPERMIT": "HWR-111"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.40056574659297, 
+          25.495515541268112
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FL7570024037", 
+        "FOLIO": "3079020000160", 
+        "NAME": "Homestead Air Force Base", 
+        "LON": -80.40057, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/homafbfl.htm", 
+        "POINT_X": 853886.561975891, 
+        "POINT_Y": 422784.43700437597, 
+        "ADDRESS": "HARB", 
+        "LAT": 25.49552, 
+        "DERMPERMIT": "HWR-150"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.31228575181373, 
+          25.83641288109712
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FLD076027820", 
+        "FOLIO": "3040350001052", 
+        "NAME": "Miami Drum Service", 
+        "LON": -80.31229, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/miadrmfl.htm", 
+        "POINT_X": 882361.875154413, 
+        "POINT_Y": 546826.1876478851, 
+        "ADDRESS": "7049 NW 70 St.", 
+        "LAT": 25.83641, 
+        "DERMPERMIT": "HWR-43"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35420519445043, 
+          25.8729441175025
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FLD032544587", 
+        "FOLIO": "2220330010530", 
+        "NAME": "Pepper Steel & Alloy", 
+        "LON": -80.35421, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/pepperfl.htm", 
+        "POINT_X": 868508.562117508, 
+        "POINT_Y": 560033.999756182, 
+        "ADDRESS": "10900 NW S River Dr", 
+        "LAT": 25.87294, 
+        "DERMPERMIT": "HWR-165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3532454391595, 
+          25.873862735944076
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FLD032544587", 
+        "FOLIO": "2220330010540", 
+        "NAME": "Pepper Steel & Alloy", 
+        "LON": -80.35325, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/pepperfl.htm", 
+        "POINT_X": 868822.500037801, 
+        "POINT_Y": 560369.437580495, 
+        "ADDRESS": "11002 NW S River Dr", 
+        "LAT": 25.87386, 
+        "DERMPERMIT": "HWR-165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.35344257582882, 
+          25.874765525923916
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FLD032544587", 
+        "FOLIO": "2220330010560", 
+        "NAME": "Pepper Steel & Alloy", 
+        "LON": -80.35344, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/pepperfl.htm", 
+        "POINT_X": 868756.0629177421, 
+        "POINT_Y": 560697.2496768, 
+        "ADDRESS": "11100 NW S River Dr", 
+        "LAT": 25.87477, 
+        "DERMPERMIT": "HWR-165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28923843276127, 
+          25.844879630940213
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "USEPAID": "FLD004126520", 
+        "FOLIO": "0431070062040", 
+        "NAME": "Standard Auto Bumper", 
+        "LON": -80.28924, 
+        "WEBLINK": "http://www.epa.gov/region4/waste/npl/nplfls/stdautfl.htm", 
+        "POINT_X": 889925.9378814581, 
+        "POINT_Y": 549943.875458783, 
+        "ADDRESS": "2500 W 3 Ct.", 
+        "LAT": 25.84488, 
+        "DERMPERMIT": "HWR-44"
+      }
+    }
+  ]
+}
